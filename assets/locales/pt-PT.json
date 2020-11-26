@@ -1,0 +1,701 @@
+
+ {
+   "title": "Eletr�nica para elevadores ",
+   "app_bar_action": {
+      "contact": "Fale conosco",
+      "dropdownValue": "Portoguese"
+   },
+   "main_screen": {
+      "board": {
+         "title": "Placas",
+         "subtitle": "Placas controladoras"
+      },
+      "display": {
+         "title": "Indicadores",
+         "subtitle": "TFT | LCD "
+      },
+      "panel": {
+         "title": "Botoneiras ",
+         "subtitle": "Made in Italy "
+      }
+   },
+   "cat_screen": {
+      "tabs": {
+         "all": "Tudo",
+         "motherboards": "Placas controladoras",
+         "accessory": "",
+         "wiring": "Placas para prefia�ao",
+         "power": "Placas de Potencias",
+         "lop_cop": "Botoira cabine e patamar",
+         "access": "",
+         "push": "Bot�es Roma"
+      },
+      "titles": {
+         "motherboards": "Placas controladoras",
+         "accessory": "Placas acess�rios ",
+         "wiring": "Placas de fia��o ",
+         "power": "Placas potencia",
+         "lop_cop": "Botoeiras cabine",
+         "access": "Controle de acesso",
+         "push": "Bot�es Roma"
+      }
+   },
+   "contact_screen": {
+      "title": "Escolha os produtos e preencha o formul�rio para uma resposta r�pida",
+      "no_product": "Nenhum produto selecionado ",
+      "name": "Nome ",
+      "email": "Email",
+      "company": "Nome empresa",
+      "message": "Mensagem",
+      "nmber": "N�mero de telefone ",
+      "go_products": "Visite Produtos",
+      "send": "Enviar e-mail"
+   },
+   "buttons": {
+      "favorite": {
+         "favorited": "Favorito ",
+         "add_favorite": "Adicionar"
+      }
+   },
+   "header_row": {
+      "features": "Especifica��es "
+   },
+   "second_row": {
+      "special_features": "Outras especifica��es ",
+      "subtitle": "Saiba mais sobre {} "
+   },
+   "questionnaire": {
+      "cabin_connect": "Conex�o da cabine",
+      "floor_connect": "Conex�o de patamar",
+      "q1": "Serial ou paralelo",
+      "q2": "Bot�o JST o parafusos",
+      "q3": "Indicador LCD ou TFT",
+      "last_question": "Pergunta anterior ",
+      "a1": "Seriale",
+      "a2": "Paralelo",
+      "a3": "JST",
+      "a4": "Parafusos",
+      "a5": "LCD ",
+      "a6": "TFT",
+      "yes": "Sim ",
+      "no": "N�o"
+   },
+   "products": {
+      "boards": {
+         "motherboards": {
+            "motherboard": "Placas-m�e ",
+            "BR100": {
+               "name": "BR100",
+               "desc": "",
+               "shortdesc": "A solu��o serial",
+               "specs": [
+                  "Para quadro hidr�ulico, el�trico, plataforma e maquina sem engrenagens",
+                  "At� 32 paradas",
+                  "Tipo opera��o: universal, simplex, duplex, triplex, quadruplex",
+                  "De acordo com a norma 95/16 / EC (elevadores) e 89/336 / EC (compatibilidade eletromagn�tica)",
+                  "At� 32 paradas / colectivo descida",
+                  "Adequado para sistemas pr�-cabeados e para solu��es com espa�o reduzido ",
+                  "Liga��es em s�rie e liga��es de servi�os (na cabine e nos pisos)",
+                  "Dimens�es: 124mm x 279mm "
+               ],
+               "features": {
+                  "2 Anni di garanzia": "Assist�ncia p�s-venda e garantia das placas",
+                  "Aggiorna il software": "Basta uma pen USB para realizar a atualiza��o "
+               }
+            },
+            "BR400": {
+               "name": "BR400",
+               "desc": "",
+               "shortdesc": "Solu��o universal Slim ",
+               "specs": [
+                  "Para quadros Hidr�ulicos, El�tricos, Plataforma e Gearless ",
+                  "A placa-m�e mais avan�ada ",
+                  "Ideal para quadros de comand no portal ",
+                  "At� 40 paradas",
+                  "Tipo opera��o: universal, simplex, duplex, triplex, quadruplex",
+                  "De acordo com a norma 95/16 / EC (elevadores) e 89/336 / EC (compatibilidade eletromagn�tica)",
+                  "Conex�es de chamada serial ou paralela com placas de expans�o"
+               ],
+               "features": {
+                  "Funzione integrated che controlla l�inverter": "",
+                  "Ingressi e uscite programmabili": "",
+                  "Dimensioni ridotte per soluzioni nel portale": "",
+                  "Velocit� fino a 4 m": {
+                     "s": ""
+                  },
+                  "Funzioni incluse per fossa e testata ridotta": "",
+                  "Cablaggi ridotti nel quadro di manovra": "",
+                  "Gestione dell� encoder integrata": "",
+                  "Sensore di temperatura integrato": "",
+                  "4 porte CanBus e 2 porte CanOpen": "",
+                  "2 porte RS232 di cui una dedicata al controllo remoto": ""
+               }
+            },
+            "BR200": {
+               "name": "BR200",
+               "desc": "E a placa-m�e BR mais potente, est� preparada para conectar tudo com comunica��o paralela at� 12 andares simplex colectivo descida, para funcionar com mais de 12 andares vai precisar de placas acess�rias",
+               "shortdesc": "Flexibilidade e robustez",
+               "specs": [
+                  "Para quadro hidr�ulico, el�trico, plataforma e maquina sem engrenagens",
+                  "Adequado para quadros pr�-cabeados e para solu��es com espa�o reduzido ",
+                  "At� 32 paradas",
+                  "Tipo opera��o: universal, simplex, duplex, triplex, quadruplex",
+                  "De acordo com a norma 95/16 / EC (elevadores) e 89/336 / EC (compatibilidade eletromagn�tica)",
+                  "Ideal para quadros com conex�es paralelas",
+                  "Trabalha em simplex e em duplex",
+                  "Atualiza�ao do software com um Pendrive",
+                  "Tamanho: 150mm x 255mm"
+               ],
+               "features": {
+                  "Tastierino di programmazione": "Voc� pode definir par�metros facilmente gra�as � descri��o direta no visor. Permite o diagn�stico de entradas e sa�das ativadas.  Diagn�stico de erro avan�ado."
+               }
+            },
+            "BR50L": {
+               "name": "BR50L",
+               "desc": "BR50L � a solu��o mais simples e barata para uma placa-m�e, permite a comunica��o paralela, mas apenas at� 8 paradas em simplex coletivo descida, e 6 paradas em coletivo subida-descida",
+               "shortdesc": "Ideal para homelifts",
+               "specs": [
+                  "",
+                  "Adequado para quadros eletricos o hidraulicos",
+                  "",
+                  "",
+                  "De acordo com a norma 95/16 / EC (elevadores) e 89/336 / EC (compatibilidade eletromagn�tica)",
+                  "",
+                  ""
+               ],
+               "features": {
+                  "Dimensioni": "124mm x 235mm"
+               }
+            },
+            "BR-MUX": {
+               "name": "BR-MUX",
+               "desc": "",
+               "shortdesc": "Facilita o gerenciamento de v�rios elevadores duplex",
+               "specs": [
+                  "Placa de conex�o Duplex, Triplex ou Quadruplex",
+                  "Conex�o de at� 4 elevadores em Quadruplex",
+                  "Permite o gerenciamento de pisos estranhos e escalonados",
+                  "Conex�es das botoeiras de pisos apenas na serialCanBus"
+               ],
+               "features": {
+                  "Dimensioni": "120mm x 180mm"
+               }
+            },
+            "NZEN": {
+               "name": "NZEN",
+               "desc": "",
+               "shortdesc": "Mini placa program�vel",
+               "specs": [
+                  "Fonte de alimenta��o 12/24 V",
+                  "Possui 6 entradas e 4 sa�das",
+                  "Indicador de programa��o",
+                  "Ideal para montapratos e gerenciamento de emerg�ncia"
+               ],
+               "features": {
+                  "Dimensioni": "80 mm x 90 mm"
+               }
+            }
+         },
+         "accessory": {
+            "Doorina": {
+               "name": "Doorina",
+               "desc": "",
+               "shortdesc": "Placa de operador de porta universal",
+               "specs": [
+                  "Para motores de corrente cont�nua de 12 a 48 Vdc",
+                  "Gerenciamento do motor com codificador, com limites ou tempo",
+                  "Fonte de alimenta��o 24 - 30Vdc"
+               ]
+            },
+            "Cop": {
+               "name": "Botoeira cabine",
+               "desc": "",
+               "shortdesc": "S�rial cabine",
+               "specs": [
+                  "At� 12 paradas, conex�es JST",
+                  "Servi�os: Sensores, Abre portas, Fecha portas",
+                  " Controles para 2 operadores de portas",
+                  "Protocolo serial Can-Bus"
+               ],
+               "features": {
+                  "Dimensioni": "85 mm x 145 mm"
+               }
+            },
+            "CopM": {
+               "name": "CopM",
+               "desc": "",
+               "shortdesc": "Serial cabina universal",
+               "specs": [
+                  "At� 12 paradas, conex�es de parafuso",
+                  "Servi�os: Sensores, Abre portas, Fecha portas",
+                  " Controles para 2 operadores de portas",
+                  "Protocolo serial Can-Bus"
+               ],
+               "features": {
+                  "Dimensioni": "85 mm x 145 mm"
+               }
+            },
+            "Gatebox-s": {
+               "name": "Gatebox-s",
+               "desc": "",
+               "shortdesc": "Placa do teto da cabine",
+               "specs": [
+                  "Ideal para sistemas pr�-cabeados",
+                  "Rel� de luz cabine e ocupado",
+                  "Possibilidade de conectar at� dois operadores e fotoc�lulas",
+                  "Conex�es de pesagem de carga, sensores, s�rie de seguran�a da cabine e ventilador",
+                  "LED de diagn�stico de I / O"
+               ],
+               "features": {
+                  "Dimensioni": "155 mm x 240 mm"
+               }
+            },
+            "Link-card": {
+               "name": "Link-card",
+               "desc": "",
+               "shortdesc": "Coleta de chamadas de cabine",
+               "specs": [
+                  "At� 12 paradas",
+                  "Conex�es JST",
+                  "Bot�o de abertura de porta, fechamento de porta e servi�o independente",
+                  "Protocolo Can-Bus",
+                  "Fonte de alimenta��o 12 / 24Vdc"
+               ],
+               "features": {
+                  "Dimensioni": "90 mm x 130 mm"
+               }
+            },
+            "CHM2S": {
+               "name": "CHM2S",
+               "desc": "",
+               "shortdesc": "Serial para os pisos ",
+               "specs": [
+                  "Conex�o de bot�o simples ou duplo",
+                  "senalizador de alarme ou presente",
+                  "Protocolo serial Can-Bus"
+               ],
+               "features": {
+                  "Dimensioni": "35mm x 25mm"
+               }
+            },
+            "CHM2S-Multi": {
+               "name": "CHM2S-Multi",
+               "desc": "",
+               "shortdesc": "Serial para os pisos ",
+               "specs": [
+                  "Conex�o de bot�o simples ou duplo",
+                  "Conex�o de alarme ou senalizador presente e chave de ativa��o de chamada",
+                  "Protocolo serial Can-Bus"
+               ],
+               "features": {
+                  "Dimensioni": "35mm x 40mm"
+               }
+            },
+            "CHM": {
+               "name": "CHM",
+               "desc": "",
+               "shortdesc": "Expans�o de chamadas",
+               "specs": [
+                  "Conex�es para at� 12 entradas de chamada",
+                  "V�rias conex�es dependendo do n�mero de paradas",
+                  "Protocolo serial Can-Bus"
+               ]
+            },
+            "Nvoice": {
+               "name": "Nvoice",
+               "desc": "",
+               "shortdesc": "S�ntese de voz serial",
+               "specs": [
+                  "Teclado de programa��o",
+                  "Cart�o SD com mensagens de voz em MP3 substitu�veis",
+                  "Idiomas: italiano, ingl�s, franc�s, espanhol, portugu�s, russo",
+                  "Opera��o com protocolo serial Can-bus",
+                  "Fonte de alimenta��o 12 / 24Vdc"
+               ]
+            },
+            "Nvoice_p": {
+               "name": "Nvoice_p",
+               "desc": "",
+               "shortdesc": "S�ntese de voz paralela",
+               "specs": [
+                  "Teclado de programa��o",
+                  "Cart�o SD com mensagens de voz em MP3 substitu�veis",
+                  "Idiomas: italiano, ingl�s, franc�s, espanhol, portugu�s, russo",
+                  "Opera��o paralela (1 PxP, bin�rio, bin.neg. 7 segmentos, BCD, Gray e Aut�nomo)",
+                  "Fonte de alimenta��o 12 / 24Vdc"
+               ]
+            },
+            "BR-enc": {
+               "name": "BR-enc",
+               "desc": "",
+               "shortdesc": "Placa seletora caixa digital",
+               "specs": [
+                  "Ideal para eleva��es r�pidas de 1,5m / s a ??3m / s",
+                  "Conex�o com o codificador do motor",
+                  "Parametriza��o da placa-m�e",
+                  "Ajuste do espa�o de parada e desacelera��o"
+               ]
+            },
+            "M-can": {
+               "name": "M-can",
+               "desc": "",
+               "shortdesc": "Conversor de display serial",
+               "specs": [
+                  "Fonte de alimenta��o 12 / 24Vdc",
+                  "Entrada serial can-bus",
+                  "Sa�da serial Rs485 para gerenciamento de exibi��o de outras marcas"
+               ]
+            },
+            "Interface": {
+               "name": "Interface",
+               "desc": "",
+               "shortdesc": "Prote��o serial para piso",
+               "specs": [
+                  "Fonte de alimenta��o 12/24 V",
+                  "Ele protege todo o serial Canbus da placa-m�e contra danos devido a vandalismo nos bot�es de aterrissagem"
+               ]
+            }
+         },
+         "wiring": {
+            "Cod16": {
+               "name": "Cod16",
+               "desc": "",
+               "shortdesc": "Decodifica��o de exibi��o",
+               "specs": [
+                  "Conex�o CanBus",
+                  "Gerenciamento de exibi��o paralela de 1pxp at� 16 paradas, 7 segmentos, trilha, trilha Neg, cinza",
+                  "Fonte de alimenta��o 12 / 24Vdc"
+               ]
+            },
+            "Ptc": {
+               "name": "Ptc",
+               "desc": "",
+               "shortdesc": "Gerenciamento de chave de limite e termistor",
+               "specs": [
+                  "Ideal para sistemas hidr�ulicos",
+                  "Sa�da de rel� 5A",
+                  "Fonte de alimenta��o 12/24 V",
+                  "Bot�o de reset"
+               ]
+            },
+            "Man81": {
+               "name": "Man81",
+               "desc": "",
+               "shortdesc": "Para gerenciamento da norma EN81.20",
+               "specs": [
+                  "Gest�o inspe�ao, po�o e manuten��o da cabine",
+                  "Reconhecimento de acesso ao compartimento",
+                  "Termistor embutido com v�rios limites de temperatura configur�veis"
+               ]
+            },
+            "Potmovi": {
+               "name": "Potmovi",
+               "desc": "",
+               "shortdesc": "Placa de fus�veis e retificadores",
+               "specs": [
+                  "Para cada tipo de quadro",
+                  "Com rel� para luz da cabine (220Vac)",
+                  "Com rel� ocupado (12 / 24V)"
+               ]
+            },
+            "Pon": {
+               "name": "Pon",
+               "desc": "",
+               "shortdesc": "Retificador modular",
+               "specs": [
+                  "Com 2/3 retificadores",
+                  "Fus�vel inclu�do para cada retificador"
+               ]
+            },
+            "Pon24s": {
+               "name": "Pon24s",
+               "desc": "",
+               "shortdesc": "Miniswitching estabilizador",
+               "specs": [
+                  "Retificador e fus�vel integrados",
+                  "Entrada de tens�o AC",
+                  "Sa�da de tens�o estabilizada"
+               ]
+            },
+            "Wiring": {
+               "name": "Fia��o",
+               "desc": "",
+               "shortdesc": "Fia��o mais r�pida",
+               "specs": [
+                  "Placas de interface para quadros de comando",
+                  "CW04: com 2 rel�s com soquete e 2 em 12Vdc",
+                  "MIT2: com 2 rel�s com soquete",
+                  "Mit-EXP: para gerenciamento de fia��o do inversor GP"
+               ]
+            }
+         },
+         "power": {
+            "Al96": {
+               "name": "Al96",
+               "desc": "",
+               "shortdesc": "Carregador de bateria 96Vdc",
+               "specs": [
+                  "Ideal para recarregar 7 baterias para o sistema de emerg�ncia",
+                  "Prote��o contra polaridade reversa",
+                  "Fus�vel integrado"
+               ]
+            },
+            "n_UPS": {
+               "name": "n_UPS",
+               "desc": " ",
+               "shortdesc": "Dispositivo de emerg�ncia do painel",
+               "specs": [
+                  "Dispositivo de emerg�ncia para pain�is de controle",
+                  "Ele alimenta o painel por meio de uma tens�o sinusoidal estabilizada",
+                  "Tens�o de entrada: 380 / 220Vac - 550W"
+               ]
+            },
+            "Ard": {
+               "name": "Ard",
+               "desc": " ",
+               "shortdesc": "Dispositivo de emerg�ncia inverter",
+               "specs": [
+                  "Pot�ncias: ARD18 = 1800W, ARD36 = 3600W, ARD48 = 4800W",
+                  "Sistema de emerg�ncia para o inversor. Reativa o inversor com uma tens�o DC estabilizada",
+                  "Tens�o de entrada: 24 Vdc das baterias"
+               ]
+            }
+         }
+      },
+      "display": {
+         "tft": {
+            "MarlinEl": {
+               "name": "MarlinEl",
+               "desc": "",
+               "shortdesc": "Todas as cores do mar",
+               "specs": [
+                  "100% personaliz�vel com imagens ",
+                  "Tamanho da Indicador 154 x 86 mm (7 \") ",
+                  "Resolu��o: 800x480 pixels - 65.000 cores ",
+                  "Comunica��o TFT: Canbus, RS485, Paralela, Bin�ria, Cinza, 7 segmentos, Aut�nomo",
+                  "Fonte de alimenta��o: 12 / 24V DC",
+                  "Sinais: EN81.28, sobrecarga, fora de servi�o ",
+                  "Software de programa��o Atlantis"
+               ],
+               "features": {
+                  "Scasso a filo": "Dimens�es: 157,75 mm X 89,45 mm "
+               }
+            },
+            "MarlinEvo": {
+               "name": "MarlinEvo",
+               "desc": "",
+               "shortdesc": "Com s�ntese de voz integrada e m�sica de fundo",
+               "specs": [
+                  "100% personaliz�vel com imagens e �udio",
+                  "Tamanho da Indicador 154 x 86 mm (7 \") ",
+                  "Resolu��o: 800x480 pixels - 65.000 cores ",
+                  "- Comunica��o TFT: Canbus, RS485, Paralelo, Bin�rio, Cinza, 7 segmentos, aut�nomo",
+                  "Fonte de alimenta��o: 12 / 24V DC",
+                  "Software de programa��o Atlantis",
+                  "S�ntese de voz program�vel integrada",
+                  "M�sica de fundo",
+                  "Nenhum v�deo"
+               ],
+               "features": {
+                  "Scasso a filo": "Dimens�es: 157,75 mm X 89,45 mm "
+               }
+            },
+            "Ippocampo": {
+               "name": "Ippocampo",
+               "desc": "",
+               "shortdesc": "O pequeno TFT",
+               "specs": [
+                  "- 100% personaliz�vel com imagens e �udio",
+                  "Tamanho da Indicador 105 x 67 mm (4,3 \")",
+                  "Resolu��o: 480 x 272 pixels - 65.000 cores",
+                  "Comunica��o TFT: Canbus, RS485, Paralela, Bin�ria, Cinza, 7 segmentos, Aut�nomo",
+                  "Fonte de alimenta��o: 12 / 24V DC",
+                  "Sinais: EN81.28, sobrecarga, fora de servi�o",
+                  "Software de programa��o Atlantis"
+               ],
+               "features": {
+                  "Scasso a filo": "Dimens�es: 97 mm X 55,8 mm "
+               }
+            }
+         },
+         "lcd": {
+            "Villa": {
+               "name": "Villa",
+               "desc": "",
+               "shortdesc": "O novo Indicador ",
+               "specs": [
+                  "Indicador grande, fundo preto, d�gito vermelho ou azul",
+                  "Comunica��o: Canbus, RS485, paralelo, bin�rio, cinza, 7 segmentos, aut�nomo",
+                  "Sinaliza��o: EN81.28, sobrecarga, fora de servi�o, alarme",
+                  "Fonte de alimenta��o: 12 / 24V DC "
+               ],
+               "features": {
+                  "Scasso a filo": "Dimens�es: 97 mm X 55,8 mm "
+               }
+            },
+            "Rainbow": {
+               "name": "Rainbow",
+               "desc": "",
+               "shortdesc": "As cores do arco-�ris",
+               "specs": [
+                  "Indicador LCD de moldura ou sem",
+                  "Visor anti-arranh�es",
+                  "Fonte de alimenta��o 12 / 24Vdc",
+                  "S�mbolos para piso, alarme, setas, fora de servi�o, sobrecarga e alarme recebido EN81.28",
+                  " Gongo de tr�s tons",
+                  " CanBus ou conex�o paralela (1 PxP, Bin�rio, BinarioNegato, BCD, Gray, 7 segmentos e aut�nomo)"
+               ],
+               "features": {
+                  "Cornice": "Cromota ou ouro",
+                  "Scasso a filo": "Dimens�es: 117 mm x 67 mm",
+                  "Scasso a cornice": "Dimens�es: 140 mm x 86 mm"
+               }
+            },
+            "QC51": {
+               "name": "QC51",
+               "desc": "",
+               "shortdesc": "LCD serial ou paralelo",
+               "specs": [
+                  "Indicador LCD de moldura ou sem",
+                  "Visor anti-arranh�es",
+                  "Fonte de alimenta��o 12 / 24Vdc",
+                  "S�mbolos para piso, alarme, setas, fora de servi�o, sobrecarga e alarme recebido EN81.28",
+                  "Conex�o CanBus ou conex�o paralela (1 PxP, Bin�rio, BinarioNegato, BCD, Gray, 7 segmentos e aut�nomo)"
+               ],
+               "features": {
+                  "Cornice in materiale plastico cromato per QC51 e QP51": "Acabamentos: Chrome ou ouro ",
+                  "Scasso a filo": "Dimens�es: 55,15 mm x 51,15 mm",
+                  "Scasso a cornice": "Dimens�es: 67 mm x 70 mm"
+               }
+            },
+            "Label57": {
+               "name": "Label57",
+               "desc": "",
+               "shortdesc": "A placa iluminada",
+               "specs": [
+                  "Placa iluminada com LEDs brancos ",
+                  "Dimens�es 130 x 100 mm ",
+                  "Fonte de alimenta��o 12 / 24Vdc ",
+                  "Pot�ncia m�xima 100mW ",
+                  "Software de configura��o e impress�o gr�tis"
+               ],
+               "features": {
+                  "Cornice": "Cromota ou ouro",
+                  "Scasso a filo": "Dimens�es: 117 mm x 67 mm",
+                  "Scasso a cornice": "Dimens�es: 140 mm x 86 mm"
+               }
+            }
+         }
+      },
+      "panel": {
+         "panel": {
+            "Makalu": {
+               "name": "Makalu",
+               "desc": "A botoeira toda em a�o",
+               "specs": [
+                  "Montagem de sobrepor",
+                  "Botoeira de 1 mm de espessura em a�o inoxid�vel AISI304",
+                  "Possibilidade de customizar as medidas, inclusive em largura!",
+                  "Predisposi��o para interfone",
+                  "LABEL57 luz de emerg�ncia com filme de dados do elevador",
+                  "Display LCD RAINBOW57 com �cones de sinaliza��o ou Tft Marlin",
+                  "Bot�es de 32 mm de di�metro com braille"
+               ],
+               "shortdesc": "",
+               "features": {
+                  "Bottoniere di cabina": "Largura: 90 mm> = 200 mm | Altura <= 2400mm | Profundidade: 23 mm",
+                  "Bottoniere di piano": "Largura: 60 mm> = 120 mm | Altura <= 290 mm | Profundidade: 20 - 23 mm"
+               }
+            },
+            "FlatEuropa": {
+               "name": "FlatEuropa",
+               "desc": "",
+               "shortdesc": "A botoeira suave",
+               "specs": [
+                  "Montagem na parede, caixa inclu�da",
+                  "Botoeira de 2 mm de espessura em a�o inoxid�vel AISI304",
+                  "Possibilidade de customizar as medidas",
+                  "Predisposi��o para interfone",
+                  "LABEL57 luz de emerg�ncia com filme de dados do elevador",
+                  "Display LCD RAINBOW57 com �cones de sinaliza��o ou Tft Marlin",
+                  "Bot�es de 32 mm de di�metro com braille",
+                  "Bot�o de alarme e abridor de porta"
+               ],
+               "features": {
+                  "Bottoniere di cabina": "Largura: 90 mm> = 200 mm | Altura <= 2400mm | Profundidade: 23 mm",
+                  "Bottoniere di piano": "Largura: 60 mm> = 120 mm | Altura <= 290 mm | Profundidade: 20 - 23 mm"
+               }
+            },
+            "Laguna": {
+               "name": "Laguna",
+               "desc": "",
+               "shortdesc": "Para solu�oes especiais",
+               "specs": [
+                  "Botoeira de vidro temperado com 3 mm de espessura ",
+                  "Montagem na parede, caixa opcional",
+                  "Possibilidade de personalizar tamanhos e cores",
+                  "Predisposi��o para intercomunicador",
+                  "LABEL57 luz de emerg�ncia com filme de dados do elevador",
+                  "Display LCD RAINBOW57 com �cones de sinaliza��o ou Tft Marlin",
+                  "Bot�es de 32 mm de di�metro com braille"
+               ],
+               "features": {
+                  "Bottoniere di cabina": "Largura: 90 mm> = 200 mm | Altura <= 2400mm | Profundidade: 23 mm",
+                  "Bottoniere di piano": "Largura: 60 mm> = 120 mm | Altura <= 290 mm | Profundidade: 20 - 23 mm"
+               }
+            },
+            "Rubens": {
+               "name": "Rubens",
+               "desc": "",
+               "shortdesc": "A botoeira elegante",
+               "specs": [
+                  "Montagem na parede (com caixa traseira)",
+                  "Botoeira de 2 mm de espessura em a�o inoxid�vel AISI304",
+                  "Possibilidade de customizar medidas, inclusive em largura!",
+                  "Predisposi��o para intercomunicador",
+                  "LABEL57 luz de emerg�ncia com filme de dados do elevador",
+                  "Display LCD RAINBOW57 com �cones de sinaliza��o ou Tft 7 \"",
+                  "Bot�es de 32 mm de di�metro com braille"
+               ],
+               "features": {
+                  "Bottoniere di cabina": "Largura: 90 mm> = 200 mm | Altura <= 2400 mm | Profundidade: 35 mm",
+                  "Bottoniere di piano": "Anchura: 60mm> = 120mm | Altura <= 290mm | Profundidade: 20 - 23 mm"
+               }
+            },
+            "Ilary": {
+               "name": "Ilary",
+               "desc": "",
+               "shortdesc": "Botoeira de patamar",
+               "specs": [
+                  "Botoeira de patamar com 0,6 mm de espessura em a�o inoxid�vel AISI304",
+                  "Montagem sobreposta",
+                  "Indicador LCD QP51 com �cones de sinaliza��o",
+                  "Bot�es de 32 mm de di�metro com braille e d�gitos iluminados"
+               ]
+            }
+         },
+         "access": {
+            "Aladino": {
+               "name": "Aladino",
+               "desc": "",
+               "shortdesc": "Controle de acesso",
+               "specs": [
+                  "Contagem de execu��es realizadas por cada usu�rio registrado",
+                  "",
+                  ""
+               ],
+               "features": {
+                  "Possibilit� di funzionamento sia con la serie di schede madri BR sia in qualsiasi altro pannello di controllo": ""
+               }
+            }
+         },
+         "roma": {
+            "Roma": {
+               "name": "",
+               "desc": "",
+               "shortdesc": "Bot�o "
+            }
+         }
+      }
+   }
+}

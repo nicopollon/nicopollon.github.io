@@ -1,0 +1,605 @@
+{
+    "title": "Elettronica per ascensori",
+    "app_bar_action": {
+        "contact": "Contattaci",
+        "dropdownValue": "Italiano"
+    },
+    "main_screen": {
+        "board": {
+            "title": "Schede",
+            "subtitle": "Schede Madri | Cablaggio | Accessorie | Alimentazione"
+        },
+        "display": {
+            "title": "Display",
+            "subtitle": "TFT | LCD "
+        },
+        "panel": {
+            "title": "Pulsantiere",
+            "subtitle": "Made in Italy "
+        }
+    },
+    "cat_screen": {
+        "tabs": {
+            "all": "Tutto",
+            "motherboards": "Schede Madri",
+            "accessory": "Schede Accessorie",
+            "wiring": "Schede Cablaggio",
+            "power": "Schede Potenza",
+            "lop_cop": "LOP e COP",
+            "access": "Controllo accessi",
+            "push": "Pulsanti Roma"
+        },
+        "titles": {
+            "motherboards": "Schede Madri",
+            "accessory": "Schede Accessorie",
+            "wiring": "Schede Cablaggio",
+            "power": "Schede Potenza",
+            "lop_cop": "Pannelli operatore cabina",
+            "access": "Controllo accessi",
+            "push": "Pulsanti Roma"
+        }
+    },
+    "contact_screen": {
+        "title": "Scegli i prodotti e compila il modulo per una risposta rapida",
+        "no_product": "Nessun prodotto selezionato",
+        "name": "Nome",
+        "email": "Email",
+        "company": "Nome Azienda",
+        "message": "Messaggio",
+        "nmber": "Numero di telefono",
+        "go_products": "Visita prodotti",
+        "send": "Invia Email"
+    },
+    "buttons": {
+        "favorite": {
+            "favorited": "Preferito",
+            "add_favorite": "Aggiungi"
+        }
+    },
+    "header_row": {
+        "features": "Specifiche"
+    },
+    "second_row": {
+        "special_features": "Altre specifiche",
+        "subtitle": "Scoprì di più su {}"
+    },
+    "questionnaire": {
+        "cabin_connect": "Connessione a cabina",
+        "floor_connect": "Connessione al piano",
+        "q1": "Seriale o Parallelo",
+        "q2": "Pulsante JST o a Vite?",
+        "q3": "Display LCD or TFT ?",
+        "last_question": "Domanda precedente",
+        "a1": "Seriale",
+        "a2": "Parallelo",
+        "a3": "JST",
+        "a4": "Vite",
+        "a5": "LCD",
+        "a6": "TFT",
+        "yes": "Sì",
+        "no": "No"
+    },
+    "products": {
+        "boards": {
+            "motherboards": {
+                "motherboard": "Schede Madri",
+                "BR100": {
+                    "name": "BR100",
+                    "desc": " ",
+                    "shortdesc": "La soluzione seriale",
+                    "specs": [
+                        "Per quadro Idraulico, Elettrico, Piattaforma e Gearless  ",
+                        "Fino a 32 fermate Collettivo Discesa ",
+                        "Manovra: universale, simplex, duplex, triplex, quadruplex ",
+                        "In accordo con 95/16/CE (ascensori) e 89/336/CE  (compatibilità elettromagnetica)",
+                        "Up to 32 stops down/collective mode",
+                        "Adatta per impianti precablati e per soluzioni con spazi ridotti ",
+                        "Connessioni chiamate e servizi in seriale (in cabina e ai piani) ",
+                        "Dimensions: 124mm x 279mm"
+                    ],
+                    "features": {
+                       "2 Anni di garanzia":"Assistenza post vendita e garanzia sulle schede BR",
+                       "Aggiorna il software":"Basta una penna usb per eseguire l'update"
+                    }
+                },
+                "BR400": {
+                    "name": "BR400",
+                    "desc": "",
+                    "shortdesc": "Soluzione slim universale con encoder assoluto",
+                    "specs": [
+                        "Per quadro Idraulico, Elettrico, Piattaforma e Gearless",
+                        "La scheda madre più evoluta",
+                        "Ideale per quadri di manovra nel portale",
+                        "Fino a 40 fermate",
+                        "Manovra: universale, simplex, duplex, triplex, quadruplex",
+                        "In accordo con 95/16/CE (ascensori) e 89/336/CE  (compatibilità elettromagnetica) e EN81.20",
+                        "Connessioni chiamate in seriale o in parallelo con schede di espansione"
+                    ],
+                    "features": {
+                        "Funzione integrated che controlla l’inverter": "",
+                        "Ingressi e uscite programmabili": "",
+                        "Dimensioni ridotte per soluzioni nel portale": "",
+                        "Velocità fino a 4 m/s": "",
+                        "Funzioni incluse per fossa e testata ridotta": "",
+                        "Cablaggi ridotti nel quadro di manovra": "",
+                        "Gestione dell’ encoder integrata": "",
+                        "Sensore di temperatura integrato": "",
+                        "4 porte CanBus e 2 porte CanOpen": "",
+                        "2 porte RS232 di cui una dedicata al controllo remoto": ""
+                    }
+                },
+                "BR200": {
+                    "name": "BR200",
+                    "desc": "",
+                    "shortdesc": "Forte e flessibile, parallela e seriale",
+                    "specs": [
+                        "Per quadro Idraulico, Elettrico, Piattaforma e Gearless",
+                        "Adatta a connessioni chiamate e segnali seriali e parallele (miste)",
+                        "Fino a 32 fermate Collettivo Discesa",
+                        "Manovra: universale, simplex, duplex, triplex, quadruplex",
+                        "In accordo con 95/16/CE (ascensori) e 89/336/CE  (compatibilità elettromagnetica)",
+                        "Ideale per impianti con connessioni parallele ",
+                        "Works simplex and duplex",
+                        "Aggiornamento software da PenDrive",
+                        "Dimensioni : 150mm x 255mm"
+                    ],
+                    "features": {
+                        "Tastierino di programmazione ": "Puoi settare i parametri in modo semplice  grazie alla  descrizione diretta sul display. Consente la diagnostica degli ingressi e delle uscite attivate.  Diagnostica errori avanzata."
+                    }
+                },
+                "BR50L": {
+                    "name": "BR50L",
+                    "desc": "home lift, slow lift fino ad 8 piani",
+                    "shortdesc": "Ideale per homelift",
+                    "specs": [
+                        "Per quadro Idraulico, Elettrico, Piattaforma e Gearless ",
+                        "Adatta per quadro Idraulico o Elettrico",
+                        "Fino a 16 fermate Collettivo Discesa",
+                        "Manovra: universale, simplex, duplex, triplex, quadruplex",
+                        "In accordo con 95/16/CE (ascensori) e 89/336/CE  (compatibilità elettromagnetica)",
+                        "Connessioni chiamate seriali e parallele (miste)",
+                        "Aggiornamento software da PenDrive"
+                        
+                    ],
+                    "features": {
+                        "Dimensioni": "124mm x 235mm"
+                    }
+                },
+                "BR-MUX": {
+                    "name": "BR-MUX",
+                    "desc": " ",
+                    "shortdesc": "Gestione avanzata ascensori in multiplex da 2 ad 8",
+                    "specs": [
+                        "Scheda di connessione Duplex, Triplex o Quadruplex",
+                        "Collegamento fino a 4 impianti in Quadruplex",
+                        "Permette la gestione dei piani zoppi e sfalsati",
+                        "Connessioni montanti bottoniere di piano solo in seriale CanBus"
+                       
+                    ],
+                    "features": {
+                        "Dimensioni":"120mm x 180mm"
+                    }
+                    
+                },
+                "NZEN": {
+                    "name": "NZEN",
+                    "desc": " ",
+                        "shortdesc": "Mini scheda programmmabile",
+                    "specs": [
+                        "Alimentazione 12/24V",
+                        "Dispone di 6 ingressi e 4 uscite",
+                           "Display per programmazione",
+                        "Ideale per montavivande e gestione emergenza"
+                       
+                    ],
+                    "features": {
+                        "Dimensioni":"80mm x 90mm"
+                    }
+                }
+            },
+            "accessory": {
+                "Doorina": {
+                    "name": "Doorina",
+                    "desc": "",
+                    "shortdesc": "Scheda Operatore porte universale",
+                    "specs": [
+                        "Per motori a corrente continua da 12 a 48 Vdc", "Gestione motori con encoder, con limiti o a tempo", "Alimentazione 24 - 30Vdc"
+                    ],
+                    "features": {}
+                },
+                "Cop": {
+                    "name": "Cop",
+                    "desc": "",
+                    "shortdesc": "Seriale cabina",
+                    "specs": ["Fino a 12 fermate, connessioni JST", "Servizi: Sensori, Apriporta, Chiudiporta", " Comandi per 2 operatori porte", "Protocollo seriale Can-Bus"],
+                    "features": {"Dimensioni":"85mm x 145mm"}
+                },
+                "CopM": {
+                    "name": "CopM",
+                    "desc": "",
+                    "shortdesc": "seriale cabina universale",
+                    "specs": ["Fino a 12 fermate, connessioni a vite", "Servizi: Sensori, Apriporta, Chiudiporta", " Comandi per 2 operatori porte", "Protocollo seriale Can-Bus"],
+                    "features": {"Dimensioni":"85mm x 145mm"}
+                },
+                "Gatebox-s": {
+                    "name": "Gatebox-s",
+                    "desc": "",
+                    "shortdesc": "scheda di tetto cabina",
+                    "specs": ["Ideale per impianti precablati", "Relè luce cabina e Occupato" , "Possibilità collegamento fino a due operatori e fotocellule", "Connessioni pesacarico, sensori, serie sicurezza cabina e ventola", "Led di diagnostica I/O"],
+                    "features": {"Dimensioni":"155mm x 240mm"}
+                },
+                "Link-card": {
+                    "name": "Link-card",
+                    "desc": "",
+                    "shortdesc": "Raccolta chiamate cabina",
+                    "specs": ["Fino a 12 fermate", "Connessioni JST", "Pulsante apriporta, chiudiporta e servizio indipendente", "Protocollo Can-Bus", "Alimentazione 12/24Vdc"],
+                    "features": {"Dimensioni":"90mm x 130mm"}
+                },
+                "CHM2S": {
+                    "name": "CHM2S",
+                    "desc": "",
+                    "shortdesc": "Seriale ai piani ",
+                    "specs": ["Connessione singolo o doppio pulsante", "Collegamento gemma Allarme o Presente", "Protocollo seriale Can-Bus"],
+                    "features": {"Dimensioni":"35mm x 25mm"}
+                },
+                "CHM2S-Multi": {
+                    "name": "CHM2S-Multi",
+                    "desc": "",
+                    "shortdesc": "Seriale ai piani ",
+                    "specs": ["Connessione singolo o doppio pulsante", "Collegamento gemma Allarme o Presente e chiave attivazione chiamata", "Protocollo seriale Can-Bus"],
+                    "features": {"Dimensioni":"35mm x 40mm"}
+                },
+                "CHM": {
+                    "name": "CHM",
+                    "desc": "",
+                    "shortdesc": "Espansione chiamate",
+                    "specs": ["Collegamenti fino a 12  ingressi di chiamata", "Connessioni multiple a seconda del numero di fermate","Protocollo seriale Can-Bus"],
+                    "features": {}
+                },
+                "Nvoice": {
+                    "name": "Nvoice",
+                    "desc": "",
+                    "shortdesc": "Sintesi vocale seriale",
+                    "specs": ["Tastiera di programmazione", "SD-Card con messaggi vocali Mp3 rimpiazzabili", "Lingue: Italiano, Inglese, Francese, Spagnolo, Portoghese, Russo", "Funzionamento con protocollo seriale Can-bus", "Alimentazione 12/24Vdc"],
+                    "features": {}
+                },
+                "Nvoice_p": {
+                    "name": "Nvoice_p",
+                    "desc": "",
+                    "shortdesc": "Sintesi voce parallela",
+                    "specs": ["Tastiera di programmazione", "SD-Card con messaggi vocali Mp3 rimpiazzabili", "Lingue: Italiano, Inglese, Francese, Spagnolo, Portoghese, Russo", "Funzionamento parallelo (1 PxP, binario, bin.neg. 7 segmenti, BCD, Gray e  Autonomo)", "Alimentazione 12/24Vdc"],
+                    "features": {}
+                },
+                "BR-enc": {
+                    "name": "BR-enc",
+                    "desc": "",
+                    "shortdesc": "Scheda selettore vano digitale",
+                    "specs": ["Ideale  per ascensori veloci da 1.5m/s a 3m/s", "Connessione all’encoder del motore", "Parametrizzazione da scheda madre", "Regolazione fermata e spazio decelerazione"],
+                    "features": {}
+                },
+                "M-can": {
+                    "name": "M-can",
+                    "desc": "",
+                    "shortdesc": "Convertitore seriale display",
+                    "specs": ["Alimentazione 12/24Vdc", "Ingresso seriale Can-bus", "Uscita seriale Rs485 per gestione display di altre marche"],
+                    "features": {}
+                },
+                "Interface": {
+                    "name": "Interface",
+                    "desc": "",
+                    "shortdesc": "Protezione seriale di piano",
+                    "specs": ["Alimentazione 12/24V", "Protegge l’intero seriale Canbus della scheda madre dal danneggiamento dovuto ad atti vandalici alle bottoniere di piano"],
+                    "features": {}
+                }
+            },
+            "wiring": {
+                "Cod16": {
+                    "name": "Cod16",
+                    "desc": "",
+                    "shortdesc": "Decodifica display",
+                    "specs": [
+                        "Collegamento CanBus", "Gestione display 1pxp parallelo fino a 16 fermate, 7 Segmenti, binario, binario Neg, gray", "Alimentazione 12/24Vdc"
+                    ],
+                    "features": {}
+                },
+                "Ptc": {
+                    "name": "Ptc",
+                    "desc": "",
+                    "shortdesc": "Gestione finecorsa e termistore",
+                    "specs": ["Ideale per impianti oleodinamici" ,"Uscita a Relè 5A", "Alimentazione 12/24V", "Pulsante di Reset"],
+                    "features": {}
+                },
+                "Man81": {
+                    "name": "Man81",
+                    "desc": "",
+                    "shortdesc": "Per gestione norma EN81.20",
+                    "specs": ["Gestione delle manutenzioni quadro, fossa e cabina", "Riconoscimento accesso al vano", "Termistore incorporato con varie soglie di temperatura settabili"],
+                    "features": {}
+                },
+                "Potmovi": {
+                   "name": "Potmovi",
+                    "desc": "",
+                    "shortdesc": "Scheda fusibili e raddrizzatori",
+                    "specs": ["Per ogni tipo di quadro", "Con relè per luce cabina (220Vac)", "Con relè di occupato (12/24V)"],
+                    "features": {}
+                },
+                "Pon": {
+                    "name": "Pon",
+                    "desc": "",
+                    "shortdesc": "Raddrizzatore modulare",
+                    "specs": ["Con 2/3 raddrizzatori", "Fusibile incluso per ogni raddrizzatore"],
+                    "features": {}
+                },
+                "Pon24s": {
+                    "name": "Pon24s",
+                    "desc": "",
+                    "shortdesc": "Miniswitching stabilizzatore",
+                    "specs": ["Raddrizzatore e fusibile integrato", "Ingresso tensione alternata", "Uscita tensione stabilizzata"],
+                    "features": {}
+                },
+                "Wiring": {
+                    "name": "Wiring",
+                    "desc": "",
+                    "shortdesc": "Cablaggio più veloce",
+                    "specs": ["Schede di interfaccia per quadri di manovra", "CW04: con 2 relè con zoccolo e 2 a 12Vdc", "MIT2: con 2 relè con zoccolo", "Mit-EXP: per gestione cablaggio inverter GP"],
+                    "features": {}
+                }
+            },
+            "power": {
+                "Al96": {
+                    "name": "Al96",
+                    "desc": "",
+                    "shortdesc": "Caricabatterie 96Vdc",
+                    "specs": ["Ideale per la ricarica di 7 batterie per sistema emergenza", "Protezione da inversione polarità", "Fusibile integrato"],
+                    "features": {}
+                },
+                "n_UPS": {
+                    "name": "n_UPS",
+                    "desc": " ",
+                    "shortdesc": "Dispositivo d'emergenza quadro fino a 500W",
+                    "specs": ["Dispositivo di emergenza per quadri di manovra", "Rialimenta il quadro tramite tensione sinusoidale stabilizzata", "Tensione ingresso : 380/220Vac - 550W"],
+                    "features": {}
+                },
+                "Ard": {
+                    "name": "Ard",
+                    "desc": " ",
+                    "shortdesc": "Dispositivo d'emergenza inverter",
+                    "specs": ["Potenze:  ARD18 = 1800W,  ARD36 = 3600W, ARD48 = 4800W" ,"Sistema di emergenza per inverter Rialimenta l’inverter con una tensione continua stabilizzata" ,"Tensione di ingresso : 24 Vdc da batterie"],
+                    "features": {}
+                }
+            }
+        },
+        "display": {
+            "tft": {
+                "MarlinEl": {
+                    "name": "MarlinEl",
+                    "desc": "",
+                    "shortdesc": "Tutti i colori del mare",
+                    "specs": [
+                        "100% personalizzabile con immagini ",
+                        "Dimensione schermo 154 x 86 mm (7\") ",
+                        "Risoluzione: 800x480 pixel - 65.000 colori ",
+                        "TFT Comunicazione: Canbus, RS485, Parallelo, Binario, Grey, 7 segmenti, Stand alone",
+                        "Alimentazione: 12/24V DC",
+                        "Segnalazioni : EN81.28, sovraccarico, fuori servizio ",
+                        "Software di programmazione Atlantis"
+                    ],
+                    "features": {
+                        "Scasso a filo": "Dimensioni: 157,75mm X 89,45mm "
+                    }
+                },
+                "MarlinEvo": {
+                    "name": "MarlinEvo",
+                    "desc": "",
+                    "shortdesc": "Con sintesi vocale integrata e musica di sottofondo",
+                    "specs": [
+                        "100% personalizzabile con immagini e audio",
+                        "Dimensione schermo 154 x 86 mm (7\") ",
+                        "Risoluzione: 800x480 pixel - 65.000 colori ",
+                        "- TFT Comunicazione: Canbus, RS485, Parallelo, Binario, Grey, 7 segmenti, autonomo",
+                        "Alimentazione: 12/24V DC",
+                        "Software di programmazione Atlantis",
+                        "Sintesi vocale programmabile integrata",
+                        "Musica di sottofondo",
+                        "No video"
+                    ],
+                    "features": {
+                        "Scasso a filo": "Dimensioni: 157,75mm X 89,45mm "
+                    }
+                },
+                "Ippocampo": {
+                    "name": "Ippocampo",
+                    "desc": "",
+                    "shortdesc": "Il piccolo TFT",
+                    "specs": [
+                        "- 100% personalizzabile con immagini e audio",
+                        "Dimensione schermo 105 x 67mm (4.3\")",
+                        "Risoluzione: 480 x 272 pixel - 65.000 colori",
+                        "TFT Comunicazione: Canbus, RS485, Parallelo, Binario, Grey, 7 segmenti, Stand alone",
+                        "Alimentazione: 12/24V DC",
+                        "Segnalazioni : EN81.28, sovraccarico, fuori servizio",
+                        "Software di programmazione Atlantis"
+                    ],
+                    "features": {
+                        "Scasso a filo": "Dimensioni: 97mm X 55,8mm "
+                    }
+                }
+            },
+            "lcd": {
+                "Villa": {
+                    "name": "Villa",
+                    "desc": "",
+                    "shortdesc": "Il nuovo display ",
+                    "specs": [
+                        "Grande schermo, sfondo nero, digit rosso o blu",
+                        "Comunicazione: Canbus, RS485, parallelo, binario, gray, 7 segmenti, autonomo",
+                        "Segnalazione: EN81.28, sovraccarico, fuori servizio, allarme",
+                        "Alimentazione: 12 / 24V DC "
+                    ],
+                    "features": {
+                        "Scasso a filo": "Dimensioni: 97mm X 55,8mm "
+                    }
+                },
+                "Rainbow": {
+                    "name": "Rainbow",
+                    "desc": "",
+                    "shortdesc": "I colori dell’arcobaleno",
+                    "specs": [
+                        "Display LCD con montaggio con cornice o a filo",
+                        "Schermo protettivo antigraffio",
+                        "Alimentazione 12/24Vdc",
+                        "Simboli di piano, allarme, frecce, fuori servizio, sovraccarico e allarme ricevuto EN81.28",
+                        " Gong tritonale",
+                        " Collegamento CanBus o parallelo (1 PxP, Binario, BinarioNegato,BCD, Gray, 7 segmenti e autonomo)"
+                    ],
+                    "features": {
+                        "Cornice": "Cromota o oro",
+                        "Scasso a filo": "Dimensioni: 117mm x 67mm",
+                        "Scasso a cornice": "Dimensioni: 140mm x 86mm"
+                    }
+                },
+                "QC51": {
+                    "name": "QC51",
+                    "desc": "",
+                    "shortdesc": "LCD seriale o parallelo",
+                    "specs": [
+                        "Display LCD con montaggio con cornice o a filo",
+                        "Schermo protettivo antigraffio",
+                        "Alimentazione 12/24Vdc",
+                        "Simboli di piano, allarme, frecce, fuori servizio, sovraccarico e allarme ricevuto EN81.28",
+                        "Collegamento CanBus o Collegamento parallelo(1 PxP, Binario, BinarioNegato, BCD, Gray, 7 segmenti e autonomo)"
+                    ],
+                    "features": {
+                        "Cornice in materiale plastico cromato per QC51 e QP51": "Finiture: Cromato o oro ",
+                        "Scasso a filo": "Dimensioni: 55,15mm x 51,15mm",
+                        "Scasso a cornice": "Dimensioni: 67mm x 70mm"
+                    }
+                },
+                "Label57": {
+                    "name": "Label57",
+                    "desc": "",
+                    "shortdesc": "La targa luminosa",
+                    "specs": [
+                        "Targa luminosa con led bianchi ",
+                        "Dimensioni 130 x 100 mm ",
+                        "Alimentazione 12/24Vdc ",
+                        "Potenza massima 100mW ",
+                        "Software di configurazione e stampa gratuito"
+                    ],
+                    "features": {
+                        "Cornice": "Cromota o oro",
+                        "Scasso a filo": "Dimensioni: 117mm x 67mm",
+                        "Scasso a cornice": "Dimensioni: 140mm x 86mm"
+                    }
+                }
+            }
+        },
+        "panel": {
+            "panel": {
+                "Makalu": {
+                    "name": "Makalu",
+                    "desc": "La bottoniera tutta in acciaio",
+                    "specs": [
+                        "Montaggio superficiale",
+                        "Bottoniera spessore 1 mm in acciaio inox AISI304",
+                        "Possibilità personalizzazione misure, anche in larghezza!",
+                        "Predisposizione combinatore telefonico",
+                        "Luce di emergenza LABEL57 con pellicola dati impianto",
+                        "Display LCD RAINBOW57 con icone di segnalazione o Tft Marlin",
+                        "Pulsanti diametro 32mm con braille"
+                    ],
+                    "shortdesc": "",
+                    "features": {
+                        "Bottoniere di cabina ": "Larghezza: 90mm >= 200 mm | Altezza <= 2400mm | Profondità: 23mm",
+                        "Bottoniere di piano ": "Larghezza: 60mm >= 120 mm | Altezza <= 290mm | Profondità: 20 - 23mm"
+                    }
+                },
+                "FlatEuropa": {
+                    "name": "FlatEuropa",
+                    "desc": "",
+                    "shortdesc": "La bottoniera liscia",
+                    "specs": [
+                        "Montaggio ad incasso, scatola inclusa",
+                        "Bottoniera spessore 2 mm in acciaio inox AISI304",
+                        "Possibilità personalizzazione misure",
+                        "Predisposizione combinatore telefonico (combinatore su richiesta)",
+                        "Luce di emergenza LABEL57 con pellicola dati impianto",
+                        "Display LCD RAINBOW57 con icone di segnalazione o Tft Marlin",
+                        "Pulsanti diametro 32mm con braille",
+                        "Pulsante allarme e apriporta"
+                    ],
+                    "features": {
+                        "Bottoniere di cabina ": "Larghezza: 90mm >= 200 mm | Altezza <= 2400mm | Profondità: 23mm",
+                        "Bottoniere di piano ": "Larghezza: 60mm >= 120 mm | Altezza <= 290mm | Profondità: 20 - 23mm"
+                    }
+                },
+                "Laguna": {
+                    "name": "Laguna",
+                    "desc": "",
+                    "shortdesc": "Para soluciones especiales",
+                    "specs": [
+                        "Bottoniera spessore 3 mm in vetro temperato ",
+                        "Montaggio ad incassoscatola opzionabile",
+                        "Possibilità personalizzazione misure e colore",
+                        "Predisposizione combinatore telefonico (combinatore su richiesta)",
+                        "Luce di emergenza LABEL57 con pellicola dati impianto",
+                        "Display LCD RAINBOW57 con icone di segnalazione o Tft Marlin",
+                        "Pulsanti diametro 32mm con braille"
+                    ],
+                    "features": {
+                        "Bottoniere di cabina ": "Larghezza: 90mm >= 200 mm | Altezza <= 2400mm | Profondità: 23mm",
+                        "Bottoniere di piano ": "Larghezza: 60mm >= 120 mm | Altezza <= 290mm | Profondità: 20 - 23mm"
+                    }
+                },
+                "Rubens": {
+                    "name": "Rubens",
+                    "desc": "",
+                    "shortdesc": "La bottoniera di classe",
+                    "specs": [
+                        "Montaggio a filo (con scatola posteriore)",
+                        "Bottoniera spessore 2 mm in acciaio inox AISI304",
+                        "Possibilità personalizzazione misure, anche in larghezza!",
+                        "Predisposizione combinatore telefonico",
+                        "Luce di emergenza LABEL57 con pellicola dati impianto",
+                        "Display LCD RAINBOW57 con icone di segnalazione o Tft 7\"",
+                        "Pulsanti diametro 32mm con braille"
+                    ],
+                    "features": {
+                        "Bottoniere di cabina ": "Larghezza: 90mm >= 200 mm | Altezza <= 2400mm | Profondità: 35mm",
+                        "Bottoniere di piano ": "Anchura: 60mm >= 120 mm | Altura <= 290mm | Profundidad: 20 - 23mm"
+                    }
+                },
+                "Ilary": {
+                    "name": "Ilary",
+                    "desc": "",
+                    "shortdesc": "Bottoniera di piano",
+                    "specs": [
+                        "Bottoniere di piano spessore 0,6 mm in acciaio inox AISI304",
+                        "Montaggio sovrapposto",
+                        "Display LCD QP51 con icone di segnalazione",
+                        "Pulsanti diametro 32mm con braille e cifra illuminata"
+                    ],
+                    "features": {}
+                }
+            },
+            "access": {
+                "Aladino": {
+                    "name": "Aladino",
+                    "desc": "",
+                    "shortdesc": "Controllo accessi",
+                    "specs": ["Conteggio delle corse eseguite da ogni utente registrato" ,"Inserimento numero massimo di corse da poter assegnare ad ogni utente entro un periodo di tempo programmabile.", "Ogni utente che viene registrato nel sistema, può essere autorizzato all’accesso di determinati piani. Possibilità di inserire eventuali piani liberi, non sottoposti a controllo." ],
+                    "features": {"Possibilità di funzionamento sia con la serie di schede madri BR sia in qualsiasi altro pannello di controllo":""}
+                }
+            },
+            "roma": {
+                "Roma": {
+                    "name": "Roma",
+                    "desc": "",
+                    "shortdesc": "PushButton",
+                    "specs": [],
+                    "features": {}
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,694 @@
+{
+    "title": "Electrónica para ascensores",
+    "app_bar_action": {
+        "contact": "Contáctenos",
+        "dropdownValue": "Spanish"
+    },
+    "main_screen": {
+        "board": {
+            "title": "Tarjetas",
+            "subtitle": "Tarjeta madre | Alambrado | accesoria |  Alimentación"
+        },
+        "display": {
+            "title": "Indicadores",
+            "subtitle": "TFT | LCD "
+        },
+        "panel": {
+            "title": "Botoneras",
+            "subtitle": "Made in Italy "
+        }
+    },
+    "cat_screen": {
+        "tabs": {
+            "all": "Todo",
+            "motherboards": "Tarjeta madre",
+            "accessory": "Accesoria",
+            "wiring": "Alambrado",
+            "power": "Alimentación",
+            "lop_cop": "Botoneras",
+            "access": "Control de acceso",
+            "push": "Pulsadores"
+        },
+        "titles": {
+            "motherboards": "Tarjeta madre",
+            "accessory": "Accesoria",
+            "wiring": "Alambrado",
+            "power": "Alimentación",
+            "lop_cop": "Botoneras",
+            "access": "Control de acceso",
+            "push": "Pulsadores"
+        }
+    },
+    "contact_screen": {
+        "title": "Complete el formulario obtenga una respuesta rápida",
+        "no_product": "No se ha seleccionado ningún producto",
+        "name": "Nombre",
+        "email": "Correo electrónico",
+        "company": "Nombre de empresa",
+        "message": "Mensaje",
+        "nmber": "Número de teléfono",
+        "go_products": "Visitar productos",
+        "send": "Enviar correo"
+    },
+    "buttons": {
+        "favorite": {
+            "favorited": "Favorito",
+            "add_favorite": "Agregar a los favorite"
+        }
+    },
+    "header_row": {
+        "features": "Caracteristicas"
+    },
+    "second_row": {
+        "special_features": "Características adicionales",
+        "subtitle": "Descubra más sobre"
+    },
+    "questionnaire": {
+        "cabin_connect": "Cómo conectarse a la cabina",
+        "floor_connect": "Cómo conectar al suelo",
+        "q1": "En serie o Parallelo? ",
+        "q2": "JST o Tornillos",
+        "q3": "Indicadores LCD o TFT ?",
+        "last_question": "última pregunta",
+        "a1": "En serie",
+        "a2": "Parallelo",
+        "a3": "JST",
+        "a4": "Tornillos",
+        "a5": "LCD",
+        "a6": "TFT",
+        "yes": "Sì",
+        "no": "No"
+    },
+    "products": {
+        "boards": {
+            "motherboards": {
+                "motherboard": "Tarjeta madre",
+                "BR100": {
+                    "name": "BR100",
+                    "desc": "  ",
+                    "shortdesc": " Tarjeta madre en serie",
+                    "specs": [
+                        "Para control Hidráulico, Eléctricomecanico, Plataforma y Gearless ",
+                        "Hasta 32 paradas en Collettiva bajada ",
+                        "Maniobra: universal, simplex, dúplex, triplex, cuádruplex ",
+                        "Adecuada para sistemas premontado y para soluciones con espacios reducidos ",
+                        "Cumple a la norma 95/16/CE (ascensores) y 89/336/CE (compatibilidad electromagnética) ",
+                        "Works multiplex up to 8 installations",
+                        "Conexiones de llamadas y servicios en serie (en la cabina y en los pasillo) ",
+                        "Tamaño: 124 x 279mm"
+                    ],
+                    "features": {
+                       
+                    }
+                },
+                "BR400": {
+                    "name": "BR400",
+                    "desc": "  ",
+                    "shortdesc": "la solución delgada universal",
+                    "specs": [
+                        " Para control Hidráulico, Eléctricomecanico, Plataforma y Gearless",
+                        "La placa controladora más avanzada",
+                        "Ideal para control de maniobra en el marco de la puerta.",
+                        " Hasta 40 paradas",
+                        " Maniobra: universal, simplex, dúplex, triplex, cuádruplex",
+                        " Cumple con la norma 95/16/CE (ascensores) y 89/336 /CE (compatibilidad electromagnética) y EN81.20",
+                        " Conexiones de llamadas en serie o paralelo con placas de expansión"
+                    ],
+                    "features": {
+                        "Función de manejo integrado del variador": "",
+                        "Entradas y salidas programables": "",
+                        "Velocidades de hasta 4 m/s": "",
+                        "Funciones incluidas para foso y sobrerecorrido reducido": "",
+                        "Tamaño pequeño para soluciones nel marco de la puerta": "",
+                        "Cableado reducido en el panel de control": "",
+                        "Gestión integrada del encoder del motor": "",
+                        "4 puertas CanBus y 2 puertas CanOpen": "",
+                        "2 puertas RS232, uno de las cuales está dedicada para el control remoto": ""
+                    }
+                },
+                "BR200": {
+                    "name": "BR200",
+                    "desc": "",
+                    "shortdesc": "Parallel tarjeta madre",
+                    "specs": [
+                        "Para control Hidráulico, Eléctricomecanico, Plataforma y Gearless",
+                        "Adecuada para llamadas y signales en serie y paralelo (mixtas) ",
+                        "Para controles Hidráulico o Eléctromecanico",
+                        "Hasta 32 paradas en  Collettivo bajada",
+                        "Maniobra: universal, simplex, dúplex, triplex, cuádruplex",
+                        "De acuerdo con 95/16/CE (ascensores) y 89/336/CE (compatibilidad electromagnética)",
+                        "Ideal para conexiones en paralelo",
+                        "Actualización de software de PenDrive",
+                        "Tamaño  : 150mm x 255mm"
+                    ],
+                    "features": {
+                        "Teclado de programación ": "Puede configurar los parámetros fácilmente gracias a la descripción directa en la pantalla. Permite el diagnóstico de entradas y salidas activadas. Diagnóstico avanzado de errores."
+                    }
+                },
+                "BR50L": {
+                    "name": "BR50L",
+                    "desc": "",
+                    "shortdesc": "Ideal para plataforma",
+                    "specs": [
+                        "Para control Hidráulico, Eléctricomecanico, Plataforma y Gearless ",
+                        "Adecuada para controles Hdráulico o Eléctromecanico",
+                        "Hasta 16 paradas en Collettivo bajada",
+                        "Maniobra: universal, simplex, dúplex, triplex, cuádruplex",
+                        "De acuerdo con 95/16/CE (ascensores) y 89/336/CE (compatibilidad electromagnética)",
+                        "Conexiones de llamadas en serie y paralelo (mixto)",
+                        "Actualización de software de PenDrive",
+                        "Tamaño: 124mm x 235mm"
+                    ],
+                    "features": {
+                 
+                    }
+                },
+                "BR-MUX": {
+                    "name": "BR-MUX",
+                    "desc": "  ",
+                    "shortdesc": "Facilta la gestiòn de mùltuples ascensores duplex",
+                    "specs": [
+                        "Tarjeta de conexiónes Duplex, Triplex o Quadruplex",
+                        "Conexión hasta 4 ascensores Quadruplex ",
+                        "Permite la gestión de pisos cojos y escalonados",
+                        "Conexiones de las botoneras de pasillo en serie CanBus",
+                        "Tamaño: 120mm x 180mm"
+                    ] ,  "features":{}
+                },
+                "NZEN": {
+                    "name": "NZEN",
+                    "desc": " ",
+                    "shortdesc": "Mini tarjeta programable",
+                    "specs": [
+                        "Fuente de alimentación 12 / 24V",
+                        "6 entradas y 4 salidad",
+                        "Pantalla de programacion",
+                        "Ideal para montaplatos y getionde emergencias"
+                    ],
+                        "features":{}
+                }
+            },
+            "accessory": {
+                "Doorina": {
+                    "name": "Doorina",
+                    "desc": "",
+                    "shortdesc": "En una placa muchas soluciones",
+                    "specs": [
+                        "Tarjeta para operador de puerta",
+                        "Maneja motores DC de 12 a 48 Vdc",
+                        "Gestión del motores con codificador, con límites o manejo con tiempos",
+                        "Fuente de alimentación 24 - 30Vdc"
+                    ],
+                    "features": {}
+                },
+                "Cop": {
+                    "name": "Cop",
+                    "desc": "",
+                    "shortdesc": "Tarjeta serial de cabina",
+                    "specs": [
+                        "Hasta 12 paradas, conexiones JST",
+                        "Servicios: sensores, abrepuertas, cierrepuertas",
+                        "Controles para operadores de 2 puertas",
+                        "Protocolo serie Can-Bus"
+                    ],
+                    "features": {
+                     
+                    }
+                },
+                "CopM": {
+                    "name": "CopM",
+                    "desc": "",
+                    "shortdesc": "Tarjeta serial de cabina universal",
+                    "specs": [
+                        "Hasta 12 paradas, conexiones JST",
+                        "Servicios: sensores, abrepuertas, cierrepuertas",
+                        "Controles para operadores de 2 puertas",
+                        "Protocolo serie Can-Bus"
+                    ],
+                    "features": {}
+                },
+                "Gatebox-s": {
+                    "name": "Gatebox-s",
+                    "desc": "",
+                    "shortdesc": "Tarjeta de techo cabina",
+                    "specs": [
+                        "Ideal para instalación premontadas",
+                        "Relé de luz de cabina y Ocupado",
+                        "Posibilidad de conectar hasta dos operadores y fotocélulas",
+                        "Conexion pesacarga, sensores, seguridad de cabina y ventiladores",
+                        "LED de diagnóstico de E/S"
+                    ],
+                    "features": {}
+                },
+                "Link-card": {
+                    "name": "Link-card",
+                    "desc": "",
+                    "shortdesc": "Tarjeta llamadas de cabina ",
+                    "specs": [
+                        "Hasta 12 paradas, conexiones JST",
+                        "Botón de apertura de puerta, cierrapuertas y servicio independiente",
+                        "Protocolo Can-Bus",
+                        "Alimentación de 12 / 24Vdc"
+                    ],
+                    "features": {}
+                },
+                "CHM2S": {
+                    "name": "CHM2S",
+                    "desc": "",
+                    "shortdesc": "Serial de pasillo",
+                    "specs": [
+                        "Conexión simple o doble pulsador",
+                        "Conexión de piloto de alarma o presente",
+                        "Protocolo en serie Can-Bus"
+                    ],
+                    "features": {}
+                },
+                "CHM2S-Multi": {
+                    "name": "CHM2S-Multi",
+                    "desc": "",
+                    "shortdesc": "Serial de pasillo",
+                    "specs": [
+                        "Conexión simple o doble pulsador",
+                        "Conexión  de piloto de alarma o presente y llavin de activación de llamada",
+                        "Protocolo en serie Can-Bus"
+                    ],
+                    "features": {}
+                },
+                "CHM": {
+                    "name": "CHM",
+                    "desc": "",
+                    "shortdesc": "Expansion llamadas",
+                    "specs": [
+                        "Conexiones hasta 12 llamadas",
+                        "Conexiones múltiples dependiendo del número de paradas que necesitamos",
+                        "Protocolo en serie Can-Bus"
+                    ],
+                    "features": {}
+                },
+                "Nvoice": {
+                    "name": "Nvoice",
+                    "desc": "",
+                    "shortdesc": "Síntetizador de voz serial",
+                    "specs": [
+                        "Teclado de programación",
+                        "SD Card con mensajes de voz Mp3 reemplazables",
+                        "Idiomas: italiano, inglés, francés, español, portugués, ruso",
+                        "Operación con protocolo serie Can- Bus",
+                        "Fuente de alimentación 12 / 24Vdc"
+                    ],
+                    "features": {}
+                },
+                "Nvoice_p": {
+                    "name": "Nvoice_p",
+                    "desc": "",
+                    "shortdesc": "Síntetizador de voz paralelo",
+                    "specs": [],
+                    "features": {}
+                },
+                "BR-enc": {
+                    "name": "BR-enc",
+                    "desc": "",
+                    "shortdesc": "Tarjeta encoder, ducto del motor",
+                    "specs": [
+                        "Ideal para ascensores de alta velocidad de1,5 m/s hasta 3 m/s",
+                        "Conexión al codificador del motor",
+                        "Parametrización desde placa base",
+                        "Regulación del espacio de desaceleración y parada"
+                    ],
+                    "features": {}
+                },
+                "M-can": {
+                    "name": "M-can",
+                    "desc": "",
+                    "shortdesc": "Convertidor en serie para indicadores",
+                    "specs": [
+                        "Fuente de alimentación 12 / 24Vdc",
+                        "Entrada en serie CanBus",
+                        "Salida en serie RS485 para la gestión de indicadores de otras marcas"
+                    ],
+                    "features": {}
+                },
+                "Interface": {
+                    "name": "Interface",
+                    "desc": "",
+                    "shortdesc": "Protección para el serial",
+                    "specs": [
+                        "Fuente de alimentación 12 / 24V",
+                        "Protege todos el serial Canbus de la tarjetacontroladora debido daños causados por",
+                        "Vandalismo en las botonears de pasillo"
+                    ],
+                    "features": {}
+                }
+            },
+            "wiring": {
+                "Cod16": {
+                    "name": "Cod16",
+                    "desc": "",
+                    "shortdesc": "Tarjeta decodificadora par indicador",
+                    "specs": [
+                        "Conexión CanBus",
+                        "Gestión indicador en paralelo, 7 segmentos, binario, binario Neg, grey",
+                        "Fuente de alimentación 12 / 24Vdc"
+                    ],
+                    "features": {}
+                },
+                "Ptc": {
+                    "name": "Ptc",
+                    "desc": "",
+                    "shortdesc": "Gestión final de carrera y termistor",
+                    "specs": [
+                        "Ideal para control hidráulico de cualquier marca",
+                        "Salida de relé 5A",
+                        "Fuente de alimentación 12 / 24V",
+                        "Botón de reinicio"
+                    ],
+                    "features": {}
+                },
+                "Man81": {
+                    "name": "Man81",
+                    "desc": "",
+                    "shortdesc": "Para la gestión de la norma EN81.20",
+                    "specs": [
+                        "Gestión de las revionines de cabina, cuadro y foso",
+                        "Reconocimiento de acceso al ducto",
+                        "Termistor incorporado con varios umbrales de temperatura configurables"
+                    ],
+                    "features": {}
+                },
+                "Potmovi": {
+                    "name": "Potmovi",
+                    "desc": "",
+                    "shortdesc": "Tarjeta con fusibles y rectificadores",
+                    "specs": [
+                        "Para cada tipo de control de maniobra",
+                        "Con relé para luz de cabina (220Vac)",
+                        "Con relé de ocupado (12 / 24V)"
+                    ],
+                    "features": {}
+                },
+                "Pon": {
+                    "name": "Pon",
+                    "desc": "",
+                    "shortdesc": "Tarjeta con rectificador",
+                    "specs": [
+                        "Con 2/3 rectificadores",
+                        "Fusible incluido para cada rectificador"
+                    ],
+                    "features": {}
+                },
+                "Pon24s": {
+                    "name": "Pon24s",
+                    "desc": "",
+                    "shortdesc": "Miniswitching estabilizador",
+                    "specs": [
+                        "Rectificador y fusible integrados",
+                        "Entrada en CA",
+                        "Salida de voltaje estabilizado"
+                    ],
+                    "features": {}
+                },
+                "Wiring": {
+                    "name": "Wiring",
+                    "desc": "",
+                    "shortdesc": "Cableado más rápid",
+                    "specs": [
+                        "Tarjetas de interfaz para control de maniobra",
+                        "CW04: con 2 relés con zócalo y 2 relés en12Vdc",
+                        "MIT2: con 2 relés con zócalo",
+                        "Mit-EXP: para el cableado del variador GP"
+                    ],
+                    "features": {}
+                }
+            },
+            "power": {
+                "Al96": {
+                    "name": "Al96",
+                    "desc": " ",
+                    "shortdesc": "Cargador 96Vdc",
+                    "specs": [
+                        "Ideal para recargar con 7 baterías para sistemas de emergencia",
+                        "Protección de inversion de polaridad",
+                        "Fusible integrado"
+                    ],
+                    "features": {}
+                },
+                "n_UPS": {
+                    "name": "n_UPS",
+                    "desc": " ",
+                    "shortdesc": "Dispositivo de rescate",
+                    "specs": [
+                        "Dispositivo de emergencia para control de maniobra",
+                        "Alimenta el panel a través de un voltaje sinusoidal estabilizado",
+                        "Voltaje de entrada: 380 / 220Vac - 550W"
+                    ],
+                    "features": {}
+                },
+                "Ard": {
+                    "name": "Ard",
+                    "desc": " ",
+                    "shortdesc": "Emergencia variador",
+                    "specs": [
+                        "Potencias: ARD18 = 1800W, ARD36 = 3600W, ARD48 = 4800W (ARD18+ARD36)",
+                        "Sistema de emergencia para variadores",
+                        "Alimenta el variador con un voltaje directo estabilizado",
+                        "Voltaje de entrada: 24 Vdc de baterías"
+                    ],
+                    "features": {}
+                }
+            }
+        },
+        "display": {
+            "tft": {
+                "MarlinEl": {
+                    "name": "MarlinEl",
+                    "desc": "",
+                    "shortdesc": "Todos los colores del mar",
+                    "specs": [
+                        "100% personalizable con imágenes ",
+                        "Tamaño de pantalla 154 x 86 mm (7\") ",
+                        "Resolución: 800x480 píxeles - 65,000 colores ",
+                        "Comunicación TFT: Canbus, RS485, Paralelo, Binario, Grey, 7 segmentos, Autonomo",
+                        "Fuente de alimentación: 12 / 24V DC",
+                        "Señalización: EN81.28, sobrecarga, fuera de servicio ",
+                        "Software Atlantis"
+                    ],
+                    "features": {
+                        "Recorte montaje empotrado": "Tamaño: 157,5mm x 89,45mm"
+                    }
+                },
+                "MarlinEvo": {
+                    "name": "MarlinEvo",
+                    "desc": "",
+                    "shortdesc": "Con síntesis vocal integrada y música de fondo",
+                    "specs": [
+                        "100% personalizable con imágenes y audio",
+                        "Tamaño de pantalla 154 x 86 mm (7\")",
+                        "Resolución: 800x480 píxeles - 65,000 colores",
+                        "Comunicación TFT: Canbus, RS485, Paralelo, Binario, Grey, 7 segmentos, autonomo",
+                        "Fuente de alimentación: 12 / 24V DC",
+                        "Señalización: EN81.28, sobrecarga, fuera de servicio",
+                        "Software de programación Atlantis",
+                        "Síntetizador de voz programable integrado",
+                        "Música de fondo",
+                        "No video"
+                    ],
+                    "features": {
+                        "Recorte montaje empotrado": "Tamaño: 157,5mm x 89,45mm"
+                    }
+                },
+                "Ippocampo": {
+                    "name": "Ippocampo",
+                    "desc": "",
+                    "shortdesc": "El pequeño TFT",
+                    "specs": [
+                        "100% personalizable con imágenes y audio",
+                        "Tamaño pantalla 105 x 67 mm (4.3 \")",
+                        "Resolución: 480 x 272 píxeles - 65,000 colores",
+                        "Comunicación TFT: Canbus, RS485, Paralelo, Binario, Grey, 7 segmentos, Autonomo",
+                        "Fuente de alimentación: 12 / 24V DC",
+                        "Señalización: EN81.28, sobrecarga, fuera de servicio",
+                        "Software de programación Atlantis"
+                    ],
+                    "features": {
+                        "Recorte montaje empotrado": "Tamaño: 97mm x 55,8mm"
+                    }
+                }
+            },
+            "lcd": {
+                "Villa": {
+                    "name": "Villa",
+                    "desc": "",
+                    "shortdesc": "El nuevo indicador",
+                    "specs": [
+                        "Pantalla grande, fondo negro, dígitos rojos o azules",
+                        "Comunicación: Canbus, RS485, paralelo, binario, grey, 7 segmentos, autónomo",
+                        "Señalización: EN81.28, sobrecarga, fuera de servicio, alarma",
+                        "Fuente de alimentación: 12 / 24V DC"
+                    ],
+                    "features": {
+                        "Recorte montaje empotrado": "Tamaño: 97mm x 55,8mm"
+                    }
+                },
+                "Rainbow": {
+                    "name": "Rainbow",
+                    "desc": "",
+                    "shortdesc": "Los colores del arcoiris",
+                    "specs": [
+                        "Indicador LCD con marco o montaje empotrado",
+                        "Pantalla protectora antiarañazos",
+                        "Fuente de alimentación de 12 / 24Vdc",
+                        "Símbolos de piso, alarma, flechas, fuera de servicio, sobrecarga y alarma recibida EN81.28",
+                        "Gong tritonal",
+                        "CanBus o conexión en paralelo (1 PxP, binario, binario negado, BCD, grey, 7 segmentos y autónomo)"
+                    ],
+                    "features": {
+                        "Acabado": "Cromado o dorado",
+                        "Recorte para montaje empotrado": "Tamaño: 115mm x 67mm",
+                        "Recorte con marco": "Tamaño: 140mm x 86mm"
+                    }
+                },
+                "QC51": {
+                    "name": "QC51",
+                    "desc": "",
+                    "shortdesc": "LCD seriale o parallelo",
+                    "specs": [
+                        "Indicador LCD con marco o montaje empotrado",
+                        "Pantalla protectora antiarañazos ",
+                        "Fuente de alimentación de 12 / 24Vdc ",
+                        "Símbolos de fuera de servicio, sobrecarga y alarma recibidos EN81.28 ",
+                        "Conexión en paralelo (1 PxP, binario, binario negado, BCD, grey, 7 segmentos y autónomo)"
+                    ],
+                    "features": {
+                        "Marco por Qc51 y Qp51 en material plastico": "Acabado: Cromado o dorado",
+                        "Recorte para montaje empotrado": "Tamaño: 55,15mm x 51,15mm",
+                        "Recorte para el marco": "Tamaño: 67mm x 70mm"
+                    }
+                },
+                "Label57": {
+                    "name": "Label57",
+                    "desc": "",
+                    "shortdesc": "La placa luminosa",
+                    "specs": [
+                        "Placa luminosa con LED blancos  ",
+                        "Tamaño 130 x 100 mm. ",
+                        "Fuente de alimentación de 12 / 24Vdc ",
+                        "Potencia máxima 100mW ",
+                        "Software de configuración e impresión gratuito"
+                    ],
+                    "features": {
+                        "Acabado": "Cromado o dorado",
+                        "Recorte para montaje empotrado": "Tamaño: 115mm x 67mm",
+                        "Recorte con marco": "Tamaño: 140mm x 86mm"
+                    }
+                }
+            }
+        },
+        "panel": {
+            "panel": {
+                "Makalu": {
+                    "name": "Makalu",
+                    "desc": "",
+                    "shortdesc": "La bottoniera tutta in acciaio",
+                    "specs": [
+                        "Botonera en acero inox de 1 mm AISI304",
+                        "Posibilidad de personalización en las medidas",
+                        "Agujeros para el intercomunicador",
+                        "Montaje de superficie",
+                        "Luz de emergencia LABEL57 con película informativa impresa",
+                        "Display LCD RAINBOW57 con iconos de advertencia o TFT Marlin",
+                        "Pulsadores diámetro 32 mm con braille"
+                    ],
+                    "features": {
+                        "Bottoniere de cabina ": "Anchura: 90mm >= 200 mm | Altura <= 2400mm | Profundidad: 23mm",
+                        "Bottoniere de pasillo": "Anchura: 60mm >= 120 mm | Altura <= 290mm | Profundidad: 20 - 23mm"
+                    }
+                },
+                "FlatEuropa": {
+                    "name": "FlatEuropa",
+                    "desc": "",
+                    "shortdesc": "La bottoniera liscia",
+                    "specs": [
+                        "Montaje empotrado, caja incluida",
+                        "Botonera de 2 mm de espesor en acero inoxidable AISI304",
+                        "Predisposición del intercomunicador",
+                        "Luz de emergencia LABEL57 con película de datos del ascensor",
+                        "Posibilidad de personalizar medidas",
+                        "Indicador LCD RAINBOW57 con iconos de señalización o TFT Marlin",
+                        "Pulsadores de 32 mm de diámetro con braille",
+                        "Pulsadores de alarma y abre puerta"
+                    ],
+                    "features": {
+                        "Bottonera de cabina ": "Anchura: 90mm >= 200 mm | Altura <= 2400mm | Profundidad: 23mm",
+                        "Bottonera de pasillo": "Anchura: 60mm >= 120 mm | Altura <= 290mm | Profundidad: 20 - 23mm"
+                    }
+                },
+                "Laguna": {
+                    "name": "Laguna",
+                    "desc": "",
+                    "shortdesc": "Para soluciones especiales",
+                    "specs": [
+                        "Botonera en vidrio templado de 3 mm ",
+                        "Montaje empotrado, caja opcional ",
+                        "Posibilidad de personalizar tamaños y colores",
+                        "Predisposición del intercomunicador",
+                        "Luz de emergencia LABEL57 con película de datos del ascensor",
+                        "Indicador LCD RAINBOW57 con iconos de señalización o TFT Marlin",
+                        "Pulsadores de 32 mm de diámetro con braille"
+                    ],
+                    "features": {
+                        "Bottonera de cabina ": "Anchura: 90mm >= 200 mm | Altura <= 2400mm | Profundidad: 23mm",
+                        "Bottonera de pasillo": "Anchura: 60mm >= 120 mm | Altura <= 290mm | Profundidad: 20 - 23mm"
+                    }
+                },
+                "Rubens": {
+                    "name": "Rubens",
+                    "desc": "",
+                    "shortdesc": "",
+                    "specs": [
+                        "Montaje empotrado (con caja posterior)",
+                        "Botonera de 2 mm de espesor en acero inoxidable AISI304",
+                        "Posibilidad de personalización en las medidas",
+                        "Agujeros para el intercomunicador",
+                        "Luz de emergencia LABEL57 con película informativa impresa",
+                        "Display LCD RAINBOW57 con iconos de advertencia o TFT Marlin",
+                        "Pulsadores diámetro 32 mm con braille"
+                    ],
+                    "features": {
+                        "Bottoniere de cabina ": "Anchura: 90mm >= 200 mm | Altura <= 2400mm | Profundidad: 35mm",
+                        "Bottoniere de pasillo ": "Anchura: 60mm >= 120 mm | Altura <= 290mm | Profundidad: 20 - 23mm"
+                    }
+                },
+                "Ilary": {
+                    "name": "Ilary",
+                    "desc": "",
+                    "shortdesc": "Botoneras de pasillo",
+                    "specs": [
+                        "B otoneras de pasillo de 0,6 mm de espesor en acero inoxidable AISI304",
+                        "Montaje de superficie",
+                        "Indicador LCD Q51 con iconos de señalización",
+                        "Pulsadores de 32 mm de diámetro con braille"
+                    ],
+                    "features": {}
+                }
+            },
+            "access": {
+                "Aladino": {
+                    "name": "Aladino",
+                    "desc": "",
+                    "shortdesc": "",
+                    "specs": [],
+                    "features": {}
+                }
+            },
+            "roma": {
+                "Roma": {
+                    "name": "Roma",
+                    "desc": "",
+                    "shortdesc": "Pushbutton",
+                    "specs": [],
+                    "features": {}
+                }
+            }
+        }
+    }
+}

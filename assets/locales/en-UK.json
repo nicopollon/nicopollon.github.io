@@ -1,0 +1,720 @@
+{
+    "title": "Electronics for elevators",
+    "app_bar_action": {
+        "contact": "Contact us",
+        "dropdownValue": "English"
+    },
+    "main_screen": {
+        "board": {
+            "title": "Boards",
+            "subtitle": "Motherboards | Wiring | Accessory | Power"
+        },
+        "display": {
+            "title": "Display",
+            "subtitle": "TFT | LCD "
+        },
+        "panel": {
+            "title": "Operating Panels",
+            "subtitle": "Made in Italy "
+        }
+    },
+    "cat_screen": {
+        "tabs": {
+            "all": "All",
+            "motherboards": "Motherboards",
+            "accessory": "Accessory",
+            "wiring": "Wiring",
+            "power": "Power",
+            "lop_cop": "LOP and COP",
+            "access": "Access Control",
+            "push": "Push Button"
+        },
+        "titles": {
+            "motherboards": "Motherboards",
+            "accessory": "Accessory Boards",
+            "wiring": "Wiring Boards",
+            "power": "Power Boards",
+            "lop_cop": "Cabin operating panels",
+            "access": "Access Control",
+            "push": "Push Button"
+        }
+    },
+    "contact_screen": {
+        "title": "Choose the products, Fill the form, Get an Answer",
+        "no_product": "No product has been selected",
+        "name": "Name",
+        "email": "Email",
+        "company": "Company Name",
+        "message": "Message",
+        "nmber": "Phone number",
+        "go_products": "Visit products",
+        "send": "Send Email"
+    },
+    "buttons": {
+        "favorite": {
+            "favorited": "Favorite",
+            "add_favorite": "Add to favorite"
+        }
+    },
+    "header_row": {
+        "features": "Features"
+    },
+    "second_row": {
+        "special_features": "Special Features",
+        "subtitle": "When we designed {}, we had these features in mind"
+    },
+    "questionnaire": {
+        "cabin_connect": "How to connect to cabin",
+        "floor_connect": "How to connect to floor",
+        "q1": "Serial or parallel connection?",
+        "q2": "JST or Screw push buttons?",
+        "q3": "LCD or TFT Display?",
+        "last_question": "last question",
+        "a1": "Serial",
+        "a2": "Parallel",
+        "a3": "JST",
+        "a4": "Screw",
+        "a5": "LCD",
+        "a6": "TFT",
+        "yes": "Yes",
+        "no": "No"
+    },
+    "products": {
+        "boards": {
+            "motherboards": {
+                "motherboard": "Motherboard",
+                "BR100": {
+                    "name": "BR100",
+                    "desc": "One of Movilift’s best sellers,  it allows the management and running of all types of lifts and solutions that the market has to offer. \nBR100 is the first of the BR motherboards family, born thanks to 20 years of experience in the manufacturing of controllers.",
+                    "shortdesc": "Serial Motherboard",
+                    "specs": [
+                        "VVVF",
+                        "Hydraulic",
+                        "Works all serial",
+                        "Absolute encoder management",
+                        "Up to 32 stops down/collective mode",
+                        "Works multiplex up to 8 installations",
+                        "95/16/CE",
+                        "89/336/CE",
+                        "Dimensions:124 x 279mm"
+                    ],
+                    "features": {
+                        "2 Years Warranty": "Free repair or substitution of our electrical components for the next two years",
+                        "Update via Usb": "Avoid timewasting, we'll provide updates for your board",
+                        "All codes are ready": "Bring BR to the fullest",
+                        "Programming Keypad": "Keypad"
+                    }
+                },
+                "BR400": {
+                    "name": "BR400",
+                    "desc": "",
+                    "shortdesc": "The universal slim solution",
+                    "specs": [
+                        "Hydraulic, Electric, Platform and Gearless controllers",
+                        "The most advanced motherboard",
+                        "The best solution for door frame controllers",
+                        "Up to 40 stops",
+                        "Manoeuvre: universal, simplex, duplex, triplex, quadruplex",
+                        "In accordance with 95/16 / CE (lifts) and 89/336 / CE (electromagnetic compatibility) and EN81.20",
+                        "Serial or parallel call connections with expansion boards",
+                        "Dimensions: 124mm x 279mm"
+                    ],
+                    "features": {
+                        "Inverter control integrated function": "",
+                        "Programmable inputs and outputs": "",
+                        "Pit and reduced headroom management function": "",
+                        "Up to 4 m/s": "",
+                        "Door frame solution for small places": "",
+                        "Reduced wiring for controllers": "",
+                        "Integrated temperature sensor": "",
+                        "Integrated encoder management": "",
+                        "4 CanBus ports and 2 CanOpen ports": "",
+                        "2 RS232 ports, one remote control dedicated": ""
+                    }
+                },
+                "BR200": {
+                    "name": "BR200",
+                    "desc": "Is the most powerful BR motherboards, its prepared to connect everything with parallel communication up to 12 floors simplex down, to operate with more then 12 floors it will need accessory boards",
+                    "shortdesc": "Flexibility and robustness",
+                    "specs": [
+                        "For Hydraulic, Electric, Platform and Gearless controllers",
+                        "Suitable for serial call connections and serial and parallel (mixed) signals",
+                        "Up to 32 stops Down collective",
+                        "Manoeuvre: universal, simplex, duplex, triplex, quadruplex",
+                        "In accordance with 95/16 / EC (lifts) and 89/336 / EC (electromagnetic compatibility)",
+                        "Ideal for wiring controllers",
+                        "PenDrive software update"
+                    ],
+                    "features": {
+                        "Dimensions": "150mm x 255mm",
+                        "Programming Keyboard": "You can set the parameters easily thanks to the description on the display. Activated inputs and outputs diagnostics."
+                    }
+                },
+                "BR50L": {
+                    "name": "BR50L",
+                    "desc": "BR50L its the simpler and cheaper solutions for a motherboard, it allows parallel communication, but only up to 8 floors in simplex down, and six in floors in full collective.",
+                    "shortdesc": "Ideal for Homelift",
+                    "specs": [
+                        "Hydraulic, Electric, Platform and Gearless controllers",
+                        "Suitable For Hydraulic or electrical controllers",
+                        "Up to 16 stops Down collective",
+                        "Manoeuvre: universal, simplex, duplex, triplex, quadruplex",
+                        "In accordance with 95/16 / EC (lifts) and 89/336 / EC (electromagnetic compatibility)",
+                        "Serial and parallel call connections (mixed)",
+                        "Software update from PenDrive"
+                    ],
+                    "features": {
+                        "Dimensions": "124mm x 235mm"
+                    }
+                },
+                "BR-MUX": {
+                    "name": "BR-MUX",
+                    "desc": "",
+                    "shortdesc": "Help the multiple duplex elevators management",
+                    "specs": [
+                        "Duplex, Triplex or Quadruplex connection board",
+                        "Duplex, Triplex or Quadruplex connection board",
+                        "Staggered floors management",
+                        "CanBus serial landing communication"
+                    ],
+                    "features": {
+                        "Dimensions": "120mm x 180mm"
+                    }
+                },
+                "NZEN": {
+                    "name": "NZEN",
+                    "desc": "",
+                    "shortdesc": "Mini programmable board",
+                    "specs": [
+                        "12/24vDC power supply",
+                        "6 inputs and 4 outputs",
+                        "Display for programming",
+                        "Ideal for dumbwaiter and emergency management"
+                    ],
+                    "features": {
+                        "Dimensions": "80mm x 90mm"
+                    }
+                }
+            },
+            "accessory": {
+                "Doorina": {
+                    "name": "Doorina",
+                    "desc": "Universal DC Car cabin door drive",
+                    "shortdesc": "Universal DC Car cabin door driver",
+                    "specs": [
+                        "Door operator board",
+                        "Encoder motor management, timed or with switches",
+                        "From 12 up to 48 Vdc DC motors",
+                        "24 - 30Vdc power supply"
+                    ],
+                    "features": {}
+                },
+                "Cop": {
+                    "name": "Cop",
+                    "desc": "",
+                    "shortdesc": "Prewiring car serial board",
+                    "specs": [
+                        "Up to 12 stops in Down Collective mode with JST connectors",
+                        "Services: Sensor, Door opener, Door closer",
+                        "Door operator inputs",
+                        "Can-bus serial protocol"
+                    ],
+                    "features": {
+                        "Dimension": "85mm x 145mm"
+                    }
+                },
+                "CopM": {
+                    "name": "CopM",
+                    "desc": "",
+                    "shortdesc": "Universal car board",
+                    "specs": [
+                        "Up to 12 stops, screwconnection, Down Collective mode with screws connectors",
+                        "Services: Sensor, Door opener, Door closer",
+                        "2 Door operator inputs included",
+                        "Can-bus serial protocol"
+                    ],
+                    "features": {
+                        "Dimension": "85mm x 145mm"
+                    }
+                },
+                "Gatebox-s": {
+                    "name": "Gatebox-s",
+                    "desc": "",
+                    "shortdesc": "TOC board",
+                    "specs": [
+                        "Ideal for pre-wired systems",
+                        "Car light and Busy relay",
+                        "Possibilty of connectinc up to two operators and photocells",
+                        "Load-weighing connections, sensors, cabin safety series and fan",
+                        "I/O diagnostics led"
+                    ],
+                    "features": {
+                        "Dimension": "155mm x 240mm"
+                    }
+                },
+                "Link-card": {
+                    "name": "Link-card",
+                    "desc": "",
+                    "shortdesc": "Car calls collection board",
+                    "specs": [
+                        "Up to 12 stops connection, JST connections",
+                        "Door opener button, door closer and independent call",
+                        "Can-bus protocol",
+                        "12/24vDC power supply"
+                    ],
+                    "features": {
+                        "Dimension": "90mm x 130mm"
+                    }
+                },
+                "CHM2S": {
+                    "name": "CHM2S",
+                    "desc": "",
+                    "shortdesc": "Serial car board",
+                    "specs": [
+                        "Single or double call pushbutton connection",
+                        "Alarm or Preset indicator connection or call activation",
+                        "Can-bus serial protocol"
+                    ],
+                    "features": {
+                        "Dimension": "35mm x 25mm"
+                    }
+                },
+                "CHM2S-Multi": {
+                    "name": "CHM2S-Multi",
+                    "desc": "",
+                    "shortdesc": "Serial car board",
+                    "specs": [
+                        "Single or double call pushbutton connection",
+                        "Alarm or Preset indicator connection or call activation",
+                        "Can-bus serial protocol"
+                    ],
+                    "features": {
+                        "Dimension": "35mm x 40mm"
+                    }
+                },
+                "CHM": {
+                    "name": "CHM",
+                    "desc": "",
+                    "shortdesc": "Calls expansion board",
+                    "specs": [
+                        "Connections up to 12 calls",
+                        "Multiple connection available for calls number expansion",
+                        "Can-bus serial protocol"
+                    ],
+                    "features": {}
+                },
+                "Nvoice": {
+                    "name": "Nvoice",
+                    "desc": "",
+                    "shortdesc": "Serial voice synthesizer",
+                    "specs": [
+                        "Vocal menu and programming keys",
+                        "SD-CARD messages",
+                        "Languages: Italian, English, French, Spanish, Portuguese, Russian",
+                        "Replaceable file with other languages or messages",
+                        "Can-bus serial protocol"
+                    ],
+                    "features": {}
+                },
+                "Nvoice_p": {
+                    "name": "Nvoice_p",
+                    "desc": "",
+                    "shortdesc": "Parallel voice announcer",
+                    "specs": [
+                        "Programming keyboard",
+                        "SD-CARD with replaceable mp3 messages",
+                        "Languages: Italian, English, French, Spanish, Portuguese, Russian",
+                        "Parallel connection (1 PxP, binary, bin.neg 7 segments, BCD, Gray and stand-alone",
+                        "12/24vDC power supply"
+                    ],
+                    "features": {}
+                },
+                "BR-enc": {
+                    "name": "BR-enc",
+                    "desc": "",
+                    "shortdesc": "Encoder managing board",
+                    "specs": [
+                        "Ideal for fast lifts from 1,5 m/s to 3m/s",
+                        "Motor encoder connection",
+                        "Programming via motherboad",
+                        "Stop and deceleration parameters setting"
+                    ],
+                    "features": {}
+                },
+                "M-can": {
+                    "name": "M-can",
+                    "desc": "",
+                    "shortdesc": "Indicator serial decoder",
+                    "specs": [
+                        "12/24vDC power supply",
+                        "Can-bus serial input",
+                        "Rs485 serial output for other brands displays management"
+                    ],
+                    "features": {}
+                },
+                "Interface": {
+                    "name": "Interface",
+                    "desc": "",
+                    "shortdesc": "Landing serial communication protection",
+                    "specs": [
+                        "12/24vDC power supply",
+                        "Protects the entire motherboard Canbus serial communication from landing buttons vandalism damages "
+                    ],
+                    "features": {}
+                }
+            },
+            "wiring": {
+                "Cod16": {
+                    "name": "Cod16",
+                    "desc": "",
+                    "shortdesc": "Indicators decoder",
+                    "specs": [
+                        "Canbus connection",
+                        "Parallel connection (1 PxP, binary, bin.neg 7 segments, BCD, Gray and stand-alone",
+                        "12/24vDC power supply"
+                    ],
+                    "features": {}
+                },
+                "Ptc": {
+                    "name": "Ptc",
+                    "desc": "",
+                    "shortdesc": "Limit switch and thermistor management",
+                    "specs": [
+                        "Ideal for hydraulic systems",
+                        "Relay output 5A",
+                        "Reset button"
+                    ],
+                    "features": {}
+                },
+                "Man81": {
+                    "name": "Man81",
+                    "desc": "",
+                    "shortdesc": "EN81.20 standard management",
+                    "specs": [
+                        "Management of controllers, pit and cabin maintenance",
+                        "Shaft access recognition",
+                        "Buil-in thermistor with various settable temperature threshold"
+                    ],
+                    "features": {}
+                },
+                "Potmovi": {
+                    "name": "Potmovi",
+                    "desc": "",
+                    "shortdesc": "Fuses and rectifiers board",
+                    "specs": [
+                        "For every controller type",
+                        "Cabin light relay (220Vac)",
+                        "Busy real (12/24V)"
+                    ],
+                    "features": {}
+                },
+                "Pon": {
+                    "name": "Pon",
+                    "desc": "",
+                    "shortdesc": "Modular rectifiers",
+                    "specs": [
+                        "With 2/3 recrifiers",
+                        "Fuse included for each rectifier"
+                    ],
+                    "features": {}
+                },
+                "Pon24s": {
+                    "name": "Pon24s",
+                    "desc": "",
+                    "shortdesc": "Stabilizer miniswitching",
+                    "specs": [
+                        "Integrated retifiers and fuse",
+                        "AC voltage input",
+                        "Stabilized voltage output"
+                    ],
+                    "features": {}
+                },
+                "Wiring": {
+                    "name": "Wiring",
+                    "desc": "",
+                    "shortdesc": "Fast Wiring",
+                    "specs": [
+                        "Interface boards for controllers",
+                        "CW04: With 2 relays with socket and 2 at 12Vdc",
+                        "MIT2: With 2 relays with socket",
+                        "Mit-EXP: for GP inverter wiring managemnent"
+                    ],
+                    "features": {}
+                }
+            },
+            "power": {
+                "Al96": {
+                    "name": "Al96",
+                    "desc": " ",
+                    "shortdesc": "96Vdc Battery charger",
+                    "specs": [
+                        "Ideal for recharging 7 batteries for the emergency system",
+                        "Reversed polarity protection",
+                        "Integrated fuse"
+                    ],
+                    "features": {}
+                },
+                "n_UPS": {
+                    "name": "n_UPS",
+                    "desc": " ",
+                    "shortdesc": "Controllers emergency devide",
+                    "specs": [
+                        "Emergency device for control controllers",
+                        "It powers the controllers through  a stabilized sinusoidal voltage",
+                        "Input voltage 380 / 220Vac - 550W"
+                    ],
+                    "features": {}
+                },
+                "Ard": {
+                    "name": "Ard",
+                    "desc": " ",
+                    "shortdesc": "Inverter emergency device",
+                    "specs": [
+                        "Powers: ARD18 = 1800W, ARD36 = 3600W, ARD48 = 4800W",
+                        "Powers the inverter with a stabilized DC voltage",
+                        "Input voltage: 24Vdc from batteries"
+                    ],
+                    "features": {}
+                }
+            }
+        },
+        "display": {
+            "tft": {
+                "MarlinEl": {
+                    "name": "MarlinEl",
+                    "desc": "",
+                    "shortdesc": "All the sea colors",
+                    "specs": [
+                        "100% customizable with images",
+                        "Screen size; 154 x 86 mm (7\")",
+                        "Resolution: 800x480 pixels - 65,000 colors",
+                        "TFT Communication: Canbus, RS485, Parallel, Binary, Gray,  7 segments, Stand alone",
+                        "Power supply: 12 / 24V DC"
+                    ],
+                    "features": {
+                        "Flush mounting": "Dimension: 157,75mm X 89,45mm ",
+                        "Atlantis programming software": ""
+                    }
+                },
+                "MarlinEvo": {
+                    "name": "MarlinEvo",
+                    "desc": "",
+                    "shortdesc": "Integrated voice announcer and music",
+                    "specs": [
+                        "100% customizable with images",
+                        "Screen size; 154 x 86 mm (7\")",
+                        "Resolution: 800x480 pixels - 65,000 colors",
+                        "TFT Communication: Canbus, RS485, Parallel, Binary, Gray,  7 segments, Stand alone",
+                        "Power supply: 12 / 24V DC",
+                        "No video",
+                        "Background Music",
+                        "Integrated programmable voice announcer",
+                        "Flush mounted"
+                    ],
+                    "features": {
+                        "Flush mounting": "Dimension: 157,75mm X 89,45mm ",
+                        "Atlantis programming software": ""
+                    }
+                },
+                "Ippocampo": {
+                    "name": "Ippocampo",
+                    "desc": "",
+                    "shortdesc": "The small TFT",
+                    "specs": [
+                        "100% customizable with images",
+                        "Screen size; 105 x 67 mm (4,3\")",
+                        "ResolutionL: 480 x 272 pixels - 65,000 colors",
+                        "TFT Communication: Canbus, RS485, Parallel, Binary, Gray,  7 segments, Stand alone",
+                        "Power supply: 12 / 24V DC"
+                    ],
+                    "features": {
+                        "Flush mounting": "Dimension: 97mm X 55,8mm ",
+                        "Atlantis programming software": ""
+                    }
+                }
+            },
+            "lcd": {
+                "Villa": {
+                    "name": "Villa",
+                    "desc": "",
+                    "shortdesc": "The new Display",
+                    "specs": [
+                        "Big screen, black background, red or blue digit",
+                        "Communication: Canbus, RS485, parallel, binary, gray, 7 segments, stand-alone",
+                        "Signaling: EN81.28, overload, out of order, alarm ",
+                        "Power supply: 12 / 24V DC"
+                    ],
+                    "features": {
+                        "Flush mounting": "Dimension: 97mm X 55,8mm "
+                    }
+                },
+                "Rainbow": {
+                    "name": "Rainbow",
+                    "desc": "",
+                    "shortdesc": "The Rainbow colors",
+                    "specs": [
+                        "LCD display with frame or flush mounting",
+                        "Anti-scratch protective screen",
+                        "12/24vDC power supply",
+                        "Floor, alarm, arrow, out of service, overload and EN81.28 alarm symbols",
+                        "Three-tone gong",
+                        "CanBus or Parallel conncetion (1 PxP, Binary, Neg. binary, BCD, Gray, 7 segments and stand-alone)"
+                    ],
+                    "features": {
+                        "Cornice": "Cromota o oro",
+                        "Flush mounting": "Dimension: 117mm x 67mm",
+                        "Scasso a cornice": "Dimension: 140mm x 86mm",
+                        "Link-LCD option with calls handling": ""
+                    }
+                },
+                "QC51": {
+                    "name": "QC51",
+                    "desc": "",
+                    "shortdesc": "Serial or Parallel LCD",
+                    "specs": [
+                        "LCD display with frame or flush mounting",
+                        "Anti-scratch protective screen",
+                        "12/24vDC power supply",
+                        "Floor, alarm, arrow, out of service, overload and EN81.28 alarm symbols",
+                        "Can-bus connection or Parallel (1 PxP, Binary, Neg. binary, BCD, Gray, 7 segments and stand-alone)"
+                    ],
+                    "features": {
+                        "Chromed ABS frame": "Gold finish or Chrome",
+                        "Flush mounting": "Dimension: 55,15mm x 51,15mm",
+                        "Scasso a cornice": "Dimension: 67mm x 70mm"
+                    }
+                },
+                "Label57": {
+                    "name": "Label57",
+                    "desc": "",
+                    "shortdesc": "The illuminated capacity plate",
+                    "specs": [
+                        "Luminous plate with white LEDs",
+                        "Dimensions: 130 x 100mm",
+                        "12/24Vdc power supply",
+                        "Maximum power 100mW",
+                        "Free configuration and printing software"
+                    ],
+                    "features": {
+                        "Chromed or gold frame": "",
+                        "Flush mounting": "Dimension: 117mm x 67mm",
+                        "Frame mounting": "Dimension: 140mm x 86mm"
+                    }
+                }
+            }
+        },
+        "panel": {
+            "panel": {
+                "Makalu": {
+                    "name": "Makalu",
+                    "desc": "",
+                    "shortdesc": "Full steel operating panels",
+                    "specs": [
+                        "Surface mounting",
+                        "AISI304 stainless steel 1mm thick operating panel",
+                        "Possibilty of customized dimensions, both in width and height",
+                        "Telephone dialer predisposition",
+                        "Label57 capacity plate",
+                        "Rainbow LCD display with signaling icons or Marlin TFT",
+                        "32mm diameter buttons with braille"
+                    ],
+                    "features": {
+                        "Car operating panel": "Width: 90 >= 200m \n Height: <= 2400 \n Depth: 23mm",
+                        "Landing operating panel": "Width: 60 >= 120mm \n Height: <= 290 \n Depth: 20-23mm"
+                    }
+                },
+                "FlatEuropa": {
+                    "name": "FlatEuropa",
+                    "desc": "",
+                    "shortdesc": "Smooth operating panel",
+                    "specs": [
+                        "Flush mounting (back box)",
+                        "AISI304 stainless steel 2mm thick operating panel",
+                        "Possibilty of customized dimensions, both in width and height",
+                        "Telephone dialer predisposition",
+                        "Label57 capacity plate",
+                        "Rainbow LCD display with signaling icons or Marlin TFT",
+                        "32mm diameter buttons with braille"
+                    ],
+                    "features": {
+                        "Car operating panel": "Width: 90 >= 200m \n Height: <= 2400 \n Depth: 23mm",
+                        "Landing operating panel": "Width: 60 >= 120mm \n Height: <= 290 \n Depth: 20-23mm"
+                    }
+                },
+                "Laguna": {
+                    "name": "Laguna",
+                    "desc": "",
+                    "shortdesc": "Special solution",
+                    "specs": [
+                        "Flush mounting (optional box)",
+                        "3mm thick tempered glass  operating panel",
+                        "Possibilty of customized color and dimensions, both in width and height",
+                        "Telephone dialer predisposition",
+                        "Label57 capacity plate",
+                        "Rainbow LCD display with signaling icons or Marlin TFT",
+                        "32mm diameter buttons with braille"
+                    ],
+                    "features": {
+                        "Car operating panel": "Width: 180 >= 200m \n Height: <= 2400 \n Depth: 23mm",
+                        "Landing operating panel": "Width: 90 >= 120mm \n Height: <= 400"
+                    }
+                },
+                "Rubens": {
+                    "name": "Rubens",
+                    "desc": "",
+                    "shortdesc": "Classy operating panel",
+                    "specs": [
+                        "Flush mounting (back box)",
+                        "AISI304 stainless steel 2mm thick operating panel",
+                        "Possibilty of customized dimensions, both in width and height",
+                        "Telephone dialer predisposition",
+                        "Label57 capacity plate",
+                        "Rainbow LCD display with signaling icons or Marlin TFT",
+                        "32mm diameter buttons with braille"
+                    ],
+                    "features": {
+                        "Car operating panel": "Width: 90 >= 200m \n Height: <= 2400 \n Depth: 23mm",
+                        "Landing operating panel": "Width: 60 >= 120mm \n Height: <= 290 \n Depth: 20-23mm"
+                    }
+                },
+                "Ilary": {
+                    "name": "Ilary",
+                    "desc": "",
+                    "shortdesc": "Landing operating panel",
+                    "specs": [
+                        "AISI304 stainless steel 0,6mm thick landing panel",
+                        "Flush mounted",
+                        "QC51 LCD display with signaling icons",
+                        "32mm diameter buttons with braille"
+                    ],
+                    "features": {}
+                }
+            },
+            "access": {
+                "Aladino": {
+                    "name": "Aladino",
+                    "desc": "",
+                    "shortdesc": "Access control",
+                    "specs": [
+                        "Travels counting per each user",
+                        "User maximum trips number within a programmable period of time",
+                        "Each user who is registered in the system can be authorized to access certain floors",
+                        "Possibility to insert any free floor, not subject to control"
+                    ],
+                    "features": {
+                        "Biometrics, keycode, or Badge": ""
+                    }
+                }
+            },
+            "roma": {
+                "Roma": {
+                    "name": "Roma",
+                    "desc": "",
+                    "shortdesc": "Pushbutton",
+                    "specs": [],
+                    "features": {}
+                }
+            }
+        }
+    }
+}

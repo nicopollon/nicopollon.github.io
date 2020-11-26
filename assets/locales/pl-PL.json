@@ -1,0 +1,699 @@
+{
+    "title": "Elektronika dla wind",
+    "app_bar_action": {
+        "contact": "Skontaktuj się z nami",
+        "dropdownValue": "Polish"
+    },
+    "main_screen": {
+        "board": {
+            "title": "Płyty",
+            "subtitle": "Płyty główne|Okablowanie|Pomocnicze|Zasilanie"
+        },
+        "display": {
+            "title": "Wyświetlacz",
+            "subtitle": "TFT | LCD "
+        },
+        "panel": {
+            "title": "Kaseta",
+            "subtitle": "Made in Italy "
+        }
+    },
+    "cat_screen": {
+        "tabs": {
+            "all": "Wszystkie",
+            "motherboards": "Płyty główne",
+            "accessory": "Płyty pomocnicze",
+            "wiring": "Płyty okablowania",
+            "power": "Karty zasilania",
+            "lop_cop": "Kasety LOP i COP",
+            "access": "Kontrola dostępu",
+            "push": "Przyciski Roma"
+        },
+        "titles": {
+            "motherboards": "Płyty główne",
+            "accessory": "Płyty pomocnicze",
+            "wiring": "Płyty okablowania",
+            "power": "Karty zasilania",
+            "lop_cop": "Kasety sterowania dla kabin",
+            "access": "Kontrola dostępu",
+            "push": "Przyciski Roma"
+        }
+    },
+    "contact_screen": {
+        "title": "Wybierz produkty i wypełnij formularz żeby uzyskać szybka odpowiedź",
+        "no_product": "Żaden produkt nie został wybrany",
+        "name": "Imię",
+        "email": "Email",
+        "company": "Nazwa firmy",
+        "message": "Wiadomość",
+        "nmber": "Numer telefonu",
+        "go_products": "Zobacz produkty",
+        "send": "Wyślij email"
+    },
+    "buttons": {
+        "favorite": {
+            "favorited": "Ulubione",
+            "add_favorite": "Dodaj"
+        }
+    },
+    "header_row": {
+        "features": "Specyfikacje"
+    },
+    "second_row": {
+        "special_features": "Specyfikacje -  szczegóły",
+        "subtitle": "Zobacz więcej na {}"
+    },
+    "questionnaire": {
+        "cabin_connect": "Połączenia kabiny",
+        "floor_connect": "Połączeniapięter",
+        "q1": "Szeregowe lub równolegle",
+        "q2": "Przycisk JST czy śrubowy?",
+        "q3": "Wyświetlacz LCD czy TFT",
+        "last_question": "Poprzednie pytanie",
+        "a1": "Szeregowe",
+        "a2": "Równolegle",
+        "a3": "JST",
+        "a4": "Śrubowy",
+        "a5": "LCD",
+        "a6": "TFT",
+        "yes": "Tak",
+        "no": "Nie"
+    },
+    "products": {
+        "boards": {
+            "motherboards": {
+                "motherboard": "Płyty główne",
+                "BR100": {
+                    "name": "BR100",
+                    "desc": "",
+                    "shortdesc": "Rozwiązanie szeregowe",
+                    "specs": [
+                        "Dla instalacji hydraulicznej, elektrycznej, platformy i gearless",
+                        "Do 32 przystanków DCL",
+                        "Manewr: uniwersalny, simplex, duplex, triplex, quadruplex",
+                        "Zgodne z 95/16/CE (windy) i 89/336/CE (kompatybilność elektromagnetyczna)",
+                        "Do 32 przystanków dół/ collective mode",
+                        "Odpowiednie dla systemów okablowanych i rozwiązań w ograniczonej przestrzeni",
+                        "Szeregowe połącznie wezwań i dyspozycji ( w kabinie i na piętrach)",
+                        "Wymiary: 124mm x 279mm"
+                    ],
+                    "features": {
+                        "2 Anni di garanzia": "Obsługa po sprzedaży i gwarancja na karty BR",
+                        "Aggiorna il software": "Wystarczy Pendrive żeby przeprowadzić aktualizacje"
+                    }
+                },
+                "BR400": {
+                    "name": "BR400",
+                    "desc": "",
+                    "shortdesc": "Uniwersalne rozważanie slim",
+                    "specs": [
+                        "Dla instalacji hydraulicznej, elektrycznej, platformy i gearless",
+                        "Najbardziej rozwinięta płyta główna",
+                        "idealna dla instalacji manewru w portalu ",
+                        "Do 40 przystanków",
+                        "Manewr: uniwersalny, simplex, dupleks, triplex, quadruplex",
+                        "Zgodna z 95/16/CE (windy) i  89/336/CE  (kompatybilność magnetyczna) i  EN81.20",
+                        "Połączenia szeregowe lub równolegle z kartami rozszerzeń"
+                    ],
+                    "features": {
+                        "Funzione integrated che controlla l’inverter": "",
+                        "Ingressi e uscite programmabili": "",
+                        "Dimensioni ridotte per soluzioni nel portale": "",
+                        "Velocità fino a 4 m": {
+                            "s": ""
+                        },
+                        "Funzioni incluse per fossa e testata ridotta": "",
+                        "Cablaggi ridotti nel quadro di manovra": "",
+                        "Gestione dell’ encoder integrata": "",
+                        "Sensore di temperatura integrato": "",
+                        "4 porte CanBus e 2 porte CanOpen": "",
+                        "2 porte RS232 di cui una dedicata al controllo remoto": ""
+                    }
+                },
+                "BR200": {
+                    "name": "BR200",
+                    "desc": "Jest najwszechstronniejsza płyta główna, dostosowana do wszelkich polaczeń w komunikacji szeregowej do 12 pięter, może obsługiwać powyżej 12 pięter przy użyciu płyty rozszerzeń.",
+                    "shortdesc": "Wszechstronność i wytrzymałość",
+                    "specs": [
+                        "Dla instalacji hydraulicznej, elektrycznej, platformy i gearless",
+                        "Odpowiednia dla łączenia sygnałów mieszanych (polaczeń szeregowych i równoległych)",
+                        "Do 32 przystanków DCL",
+                        "Manewr: uniwersalny, simplex, duplex, triplex, quadruplex",
+                        "Zgodna z 95/16/CE (windy) i 89/336/CE  (kompatybilność elektromagnetyczna)",
+                        "idealna dla systemów z połączeniami równoległymi",
+                        "Działa z simplex i duplex",
+                        "Aktualizacja programu przy pomocy Pendrive",
+                        "Wymiary: 150mm x 255mm"
+                    ],
+                    "features": {
+                        "Tastierino di programmazione": "Łatwość ustawiania parametrów dzięki bezpośredniemu opisowi na wyświetlaczu. Umożliwia diagnostykę aktywowanych wejść i wyjść. Zaawansowana diagnostyka błędów."
+                    }
+                },
+                "BR50L": {
+                    "name": "BR50L",
+                    "desc": "BR50L jest prostszym i tańszym rozwiązaniem dla płyty głównej, umożliwia komunikację równoległą, ale tylko do 8 pięter w simplex down i sześć pięter w full collective.",
+                    "shortdesc": "Idealny do windy domowej",
+                    "specs": [
+                        "Do paneli hydraulicznych, elektrycznych, platformowych i bez przekładniowych ",
+                        "Nadaje się do paneli hydraulicznych lub elektrycznych",
+                        "Do 16 przystanków down collective",
+                        "Manewr: uniwersalny, simplex, dupleks, triplex, quadruplex",
+                        "Zgodna z 95/16/CE (windy) e 89/336/CE  (kompatybilność elektromagnetyczna)",
+                        "Połączenia szeregowe i równoległe (mieszane)\n"
+                    ],
+                    "features": {
+                        "Dimensioni": "124mm x 235mm"
+                    }
+                },
+                "BR-MUX": {
+                    "name": "BR-MUX",
+                    "desc": "",
+                    "shortdesc": "Ułatwia zarządzanie wieloma windami dupleksowymi",
+                    "specs": [
+                        "Karta połączenia dupleksu, triplex lub quadruplex",
+                        "Podłączenie do 4 systemów quadruplex",
+                        "Umożliwia zarzadzanie półpiętrami",
+                        "Połączenia pionowe dla pięter tylko szeregowe CanBus"
+                    ],
+                    "features": {
+                        "Dimensioni": "120mm x 180mm"
+                    }
+                },
+                "NZEN": {
+                    "name": "NZEN",
+                    "desc": "",
+                    "shortdesc": "Mini karta programowalna",
+                    "specs": [
+                        "Zasilani 12/24V",
+                        "Posiada 6 wejść i 4 wyjścia",
+                        "Wyświetlacz do programowania",
+                        "idealny dla wind kuchennych i zarzadzania kryzysowego"
+                    ],
+                    "features": {
+                        "Dimensioni": "80mm x 90mm"
+                    }
+                }
+            },
+            "accessory": {
+                "Doorina": {
+                    "name": "Doorina",
+                    "desc": "",
+                    "shortdesc": "Karta uniwersalnego operatora drzwi",
+                    "specs": [
+                        "Do silników prądu stałego od 12 do 48 Vdc",
+                        "Zarzadzanie silnikami z enkoderem, z limitami czasowymi",
+                        "Zasilanie 24 - 30Vdc"
+                    ]
+                },
+                "Cop": {
+                    "name": "Cop",
+                    "desc": "",
+                    "shortdesc": "Szeregowy dla kabiny",
+                    "specs": [
+                        "Do 12 przystankow, połączenia JST",
+                        "Dzialanie: czujnik, otwieranie i zamykanie drzwi ",
+                        "Polecenia dla 2 operatorów drzwi",
+                        "Protokół szeregowy CanBus"
+                    ],
+                    "features": {
+                        "Dimensioni": "85mm x 145mm"
+                    }
+                },
+                "CopM": {
+                    "name": "CopM",
+                    "desc": "",
+                    "shortdesc": "Seryjny uniwersalny dla kabiny",
+                    "specs": [
+                        "Do 12 przystanków, połączenia śrubowe",
+                        "Obsługa: czujniki otwieranie i zamykanie drzwi",
+                        "Sterowanie dla 2 operatorów drzwi",
+                        "Protokół szeregowy CanBus"
+                    ],
+                    "features": {
+                        "Dimensioni": "85mm x 145mm"
+                    }
+                },
+                "Gatebox-s": {
+                    "name": "Gatebox-s",
+                    "desc": "",
+                    "shortdesc": "Płyta dachu kabiny",
+                    "specs": [
+                        "Idealna do systemów okablowanych",
+                        "Przekaźnik światła kabiny oraz zajęte",
+                        "Możliwość podłączenia do 2 operatorów i fotokomórek",
+                        "Polaczenie wagi, czujników, bezpieczeństwa kabiny i wentylatora",
+                        "Diagnostyczna dioda LED I/O"
+                    ],
+                    "features": {
+                        "Dimensioni": "155mm x 240mm"
+                    }
+                },
+                "Link-card": {
+                    "name": "Link-card",
+                    "desc": "",
+                    "shortdesc": "Zbiorcza dla połączeń kabinowych",
+                    "specs": [
+                        "Do 12 przystanków",
+                        "Połączenia JST",
+                        "Przyciski otwierania i zamykani drzwi, przycisk serwisowy",
+                        "Protokół CanBus",
+                        "Zasilanie 12/24Vdc"
+                    ],
+                    "features": {
+                        "Dimensioni": "90mm x 130mm"
+                    }
+                },
+                "CHM2S": {
+                    "name": "CHM2S",
+                    "desc": "",
+                    "shortdesc": "Szeregowe dla pięter",
+                    "specs": [
+                        "Polaczenie z jednym lub dwoma przyciskami",
+                        "placzenie alarmu lub obecne",
+                        "Protokół szeregowy CanBus"
+                    ],
+                    "features": {
+                        "Dimensioni": "35mm x 25mm"
+                    }
+                },
+                "CHM2S-Multi": {
+                    "name": "CHM2S-Multi",
+                    "desc": "",
+                    "shortdesc": "Szeregowe dla pięter",
+                    "specs": [
+                        "Polaczenie z jednym lub dwoma przyciskami",
+                        "Polaczenie alarmu, obecna, i klucz aktywacji połączeń  ",
+                        "Protokół szeregowy CanBus"
+                    ],
+                    "features": {
+                        "Dimensioni": "35mm x 40mm"
+                    }
+                },
+                "CHM": {
+                    "name": "CHM",
+                    "desc": "",
+                    "shortdesc": "Rozszerzenie połączeń",
+                    "specs": [
+                        "Połączenia do 12 wejść ",
+                        "Wiele połączeń w zależności od liczby przystanków",
+                        "Protokół szeregowy CanBus"
+                    ]
+                },
+                "Nvoice": {
+                    "name": "Nvoice",
+                    "desc": "",
+                    "shortdesc": "Szeregowy syntetyzator mowy",
+                    "specs": [
+                        "klawiatura do programowania",
+                        "Karta SD z wymiennymi wiadomościami głosowymi Mp3",
+                        "Języki: włoski, angielski, francuski, hiszpański, portugalski, rosyjski",
+                        "Obsługa protokołu szeregowego magistrali CanBus ",
+                        "Zasilanie 12/24Vdc"
+                    ]
+                },
+                "Nvoice_p": {
+                    "name": "Nvoice_p",
+                    "desc": "",
+                    "shortdesc": "Równoległy syntetyzator mowy",
+                    "specs": [
+                        "klawiatura do programowania",
+                        "Karta SD z wymiennymi wiadomościami głosowymi Mp3",
+                        "Języki: włoski, angielski, francuski, hiszpański, portugalski, rosyjski",
+                        "Równoległy (1 PxP, binario, bin.neg. 7 segmenti, BCD, Gray e  Autonomo)",
+                        "Zasilanie 12/24Vdc"
+                    ]
+                },
+                "BR-enc": {
+                    "name": "BR-enc",
+                    "desc": "",
+                    "shortdesc": "Karta wyboru przedziału cyfrowego",
+                    "specs": [
+                        "Idealny do szybkich wind od 1,5 m/s do 3 m/s",
+                        "Polaczenie do enkodera silnika",
+                        "Parametryzacja z płyty głównej",
+                        "Regulacja zatrzymani i czasu spowalniania"
+                    ]
+                },
+                "M-can": {
+                    "name": "M-can",
+                    "desc": "",
+                    "shortdesc": "Konwerter szeregowy dla wyświetlacza",
+                    "specs": [
+                        "Zasilanie 12/24Vdc",
+                        "Wejście szeregowe CnBus",
+                        "Wyjście szeregowe Rs485 do zarządzania wyświetlaczami innych marek"
+                    ]
+                },
+                "Interface": {
+                    "name": "Interfejs",
+                    "desc": "",
+                    "shortdesc": "Ochrona dla komunikacji szeregowej pięter",
+                    "specs": [
+                        "Zasilanie 12/24Vdc",
+                        "Chroni całą płytę główną komunikacji seryjne Can Bus przed zniszczeniami spowodowanymi wandalizmem przycisków"
+                    ]
+                }
+            },
+            "wiring": {
+                "Cod16": {
+                    "name": "Cod16",
+                    "desc": "",
+                    "shortdesc": "Dekodyfikator wyświetlacza",
+                    "specs": [
+                        "Polaczenie CanBus",
+                        "Zarzadzanie wyświetlaczem  1pxp  połączenia równolegle do 16 przystanków 7 Segments, binary, binary Neg, gray",
+                        "Zasilanie 12/24Vdc"
+                    ]
+                },
+                "Ptc": {
+                    "name": "Ptc",
+                    "desc": "",
+                    "shortdesc": "Wyłącznik krańcowy i zarzadzanie termistorem ",
+                    "specs": [
+                        "Idealny dla układów hydraulicznych",
+                        "Wyjście przekaźnikowe 5A",
+                        "Zasilanie 12 / 24V",
+                        "Przycisk resetuj"
+                    ]
+                },
+                "Man81": {
+                    "name": "Man81",
+                    "desc": "",
+                    "shortdesc": "Mechanizm dla standardu EN81.20",
+                    "specs": [
+                        "Zarządzanie sterownikami, konserwacja podszybia i kabiny",
+                        "Rozpoznawanie dostępu do szybu",
+                        "Wbudowany termistor z różnymi ustawionymi progami temperaturowymi"
+                    ]
+                },
+                "Potmovi": {
+                    "name": "Potmovi",
+                    "desc": "",
+                    "shortdesc": "Płyta dla bezpieczników i prostowników",
+                    "specs": [
+                        "Dla każdego typu sterownika",
+                        "Przekaźnik świetlny kabinowy (220Vac)",
+                        "Przekaźnik zajęty (12 / 24V)"
+                    ]
+                },
+                "Pon": {
+                    "name": "Pon",
+                    "desc": "",
+                    "shortdesc": "Prostownik modułowy",
+                    "specs": [
+                        "Z 2 lub 3 prostownikami",
+                        "Dołączony bezpiecznik dla każdego prostownika"
+                    ]
+                },
+                "Pon24s": {
+                    "name": "Pon24s",
+                    "desc": "",
+                    "shortdesc": "Mini przełącznik stabilizatora",
+                    "specs": [
+                        "Zintegrowane prostownik i bezpiecznik",
+                        "Wejście naprzemienne napięcia",
+                        "Stabilizowane wyjście napięcia"
+                    ]
+                },
+                "Wiring": {
+                    "name": "Okablowanie",
+                    "desc": "",
+                    "shortdesc": "Szybkie okablowanie",
+                    "specs": [
+                        "Płyty interfejsu dla kontrolerów",
+                        "CW04: z 2 przekaźnikami z gniazdem i 2 przy 12Vdc",
+                        "MIT2: z 2 przekaźnikami z gniazdem",
+                        "Mit-EXP: do zarządzania okablowaniem falownika GP"
+                    ]
+                }
+            },
+            "power": {
+                "Al96": {
+                    "name": "Al96",
+                    "desc": "",
+                    "shortdesc": "Ładowarka 96Vdc",
+                    "specs": [
+                        "Idealny do ładowania 7 baterii do systemu awaryjnego",
+                        "Ochrona przed odwróceniem polaryzacji",
+                        "Zintegrowany bezpiecznik"
+                    ]
+                },
+                "n_UPS": {
+                    "name": "n_UPS",
+                    "desc": "",
+                    "shortdesc": "Urządzenie awaryjne sterownika",
+                    "specs": [
+                        "Urządzenie awaryjne dla sterowników",
+                        "Ponowne zasilanie panelu przez stabilizowane napięcie sinusoidowe",
+                        "Napięcie wejściowe: 380/220Vac - 550W"
+                    ]
+                },
+                "Ard": {
+                    "name": "Ard",
+                    "desc": "",
+                    "shortdesc": "Urządzenie awaryjne dla falownika",
+                    "specs": [
+                        "Moc: ARD18 = 1800W, ARD36 = 3600W, ARD48 = 4800W",
+                        "System bezpieczeństwa dla falownika ze stabilizowanym napięciem ciągłym",
+                        "Napięcie wejściowe: 24 Vdc z baterii"
+                    ]
+                }
+            }
+        },
+        "display": {
+            "tft": {
+                "MarlinEl": {
+                    "name": "MarlinEl",
+                    "desc": "",
+                    "shortdesc": "Wszystkie kolory morza",
+                    "specs": [
+                        "- 100% personalizacja obrazów",
+                        "- Wymiary ekranu: 154 x 86 mm (7 \")",
+                        "- Rozdzielczość: 800x480 pixels - 65,000 kolor",
+                        "- Komunikacja TFT: Canbus, RS485, Parallel, Binary, Gray,",
+                        "Zasilanie: 12/24V DC",
+                        "Ostrzeżenia: EN81.28, przeciążenie, nieczynna",
+                        "Oprogramowanie Atlantis"
+                    ],
+                    "features": {
+                        "Scasso a filo": "Wymiary: 157,75mm X 89,45mm "
+                    }
+                },
+                "MarlinEvo": {
+                    "name": "MarlinEvo",
+                    "desc": "",
+                    "shortdesc": "Zintegrowany syntetyzator mowy i dźwięków",
+                    "specs": [
+                        "- 100% personalizacja z obrazami i dźwiękami",
+                        "- Wymiary ekranu: 154 x 86 mm (7 \")",
+                        "- Rozdzielczość: 800x480 pixels - 65,000 kolor",
+                        "Komunikacja: Canbus, RS485, Parallel, Binary, Gray,",
+                        "Zasilanie: 12 / 24V DC",
+                        "Oprogramowanie Atlantis",
+                        "Zintegrowany, programowalny syntetyzator mowy",
+                        "Muzyka w tle",
+                        "Brak wideo"
+                    ],
+                    "features": {
+                        "Scasso a filo": "Wymiary: 157,75mm X 89,45mm "
+                    }
+                },
+                "Ippocampo": {
+                    "name": "Ippocampo",
+                    "desc": "",
+                    "shortdesc": "Nasz mały TFT",
+                    "specs": [
+                        "- 100% personalizacja z obrazami i dźwiękami",
+                        "- Wymiary ekranu: 105 x 67mm (4.3 \")",
+                        "- Rozdzielczość: 480 x 272 pixels - 65,000 kolorów",
+                        "Komunikacja TFT: Canbus, RS485, Parallel, Binary, Gray, 7 segments, Stand alone",
+                        "Zasilanie: 12 / 24V DC",
+                        "Ostrzeżenia: EN81.28, przeciążenie, nieczynna",
+                        "Oprogramowani Atlantis"
+                    ],
+                    "features": {
+                        "Scasso a filo": "Wymiary: 97mm X 55,8mm "
+                    }
+                }
+            },
+            "lcd": {
+                "Villa": {
+                    "name": "Villa",
+                    "desc": "",
+                    "shortdesc": "Najnowszy wyświetlacz",
+                    "specs": [
+                        "Duzy monitor, czarne tło, czerwone lub niebieskie cyfry",
+                        "Komunikacja: Canbus, RS485, parallel, binary, gray, 7 segments, stand-alone",
+                        "Ostrzeżenia: EN81.28, przeciążenie, nieczynna, alarm ",
+                        "Zasilanie: 12 / 24V DC"
+                    ],
+                    "features": {
+                        "Scasso a filo": "Wymiary: 97mm X 55,8mm "
+                    }
+                },
+                "Rainbow": {
+                    "name": "Rainbow",
+                    "desc": "",
+                    "shortdesc": "Kolory tęczy",
+                    "specs": [
+                        "Wyświetlacz LCD do montażu natynkowego lub podtynkowego",
+                        "Ochronna powłoka zapobiegająca porysowaniu",
+                        "Zasilanie: 12 / 24Vdc",
+                        "Wyświetlane symbole: piętro, alarm, strzałki, nieczynna, przeciążenie i EN81.28",
+                        "Trzytonowy gong",
+                        "Połączenie CanBus lub równoległe (1 PxP, Binary, Neg. binary, BCD, Gray, 7 segments i stand-alone)"
+                    ],
+                    "features": {
+                        "Cornice": "Wykończenia: chromowane lub złote",
+                        "Scasso a filo": "Wymiary: 117mm x 67mm",
+                        "Scasso a cornice": "wymiary: 140mm x 86mm"
+                    }
+                },
+                "QC51": {
+                    "name": "QC51",
+                    "desc": "",
+                    "shortdesc": "Wyświetlacz szeregowy LCD",
+                    "specs": [
+                        "Wyświetlacz LCD do montażu podtynkowego lub natynkowego",
+                        "Ochronna powłoka zapobiegająca porysowaniu",
+                        "Zasilanie: 12 / 24Vdc",
+                        "Wyświetlane symbole: piętra, alarm, strzałki, nieczynna, przeciążenie i EN81.28",
+                        "Połączenia CanBus lub równolegle(1 PxP, Binary, BinaryNeg, BCD, Gray, 7 segments i samodzielny)"
+                    ],
+                    "features": {
+                        "Cornice in materiale plastico cromato per QC51 e QP51": "Wykończenie: chromowany lub zloty",
+                        "Scasso a filo": "Wymiary: 55,15mm x 51,15mm",
+                        "Scasso a cornice": "Wymiary: 67mm x 70mm"
+                    }
+                },
+                "Label57": {
+                    "name": "Label57",
+                    "desc": "",
+                    "shortdesc": "Podświetlana tabliczka ładowności",
+                    "specs": [
+                        "Podświetlana tabliczka z białym światłem LED",
+                        "Wymiary: 130 x 100 mm",
+                        "Zasilanie: 12 / 24Vdc",
+                        "Maksymalna moc: 100mW",
+                        "Darmowa konfiguracja i oprogramowanie do druku"
+                    ],
+                    "features": {
+                        "Cornice": "Ramka złota lub chromowana",
+                        "Scasso a filo": "Wymiary: 117mm x 67mm",
+                        "Scasso a cornice": "Wymiary: 140mm x 86mm"
+                    }
+                }
+            }
+        },
+        "panel": {
+            "panel": {
+                "Makalu": {
+                    "name": "Makalu",
+                    "desc": "Stalowa kaseta sterownicza",
+                    "specs": [
+                        "Montaż powierzchniowy",
+                        "Ze stali nierdzewnej AISI304 grubości 1 mm grubości",
+                        "Możliwość wykonania wymiarów niestandardowych - również szerokości!",
+                        "Predyspozycje do dialera telefonicznego",
+                        "tabliczka ładowności LABEL57",
+                        "Wyświetlacz LCD RAINBOW57 LCD z ikonami ostrzeżeń lub Marlin TFT",
+                        "Przyciski o średnicy 32mm z alfabetem Braille'a"
+                    ],
+                    "shortdesc": "",
+                    "features": {
+                        "Bottoniere di cabina": "Szerokość: 90mm >= 200 mm | Wysokość <= 2400mm | Głębokość: 23mm",
+                        "Bottoniere di piano": ""
+                    }
+                },
+                "FlatEuropa": {
+                    "name": "FlatEuropa",
+                    "desc": "",
+                    "shortdesc": "Gładkie kasety sterownicze",
+                    "specs": [
+                        "Montaż podtynkowy, skrzynka w zestawie",
+                        "Kasety ze stali nierdzewnej AISI304 grubości 2 mm ",
+                        "Możliwość dostosowania wymiarów\n",
+                        "Predyspozycja dla dialera telefonicznego",
+                        "Podświetlana tabliczka ładowności LABEL57",
+                        "Podświetlana tabliczka ładowności LABEL57",
+                        "Przyciski o średnicy 32mm z alfabetem Braille'a",
+                        "Przyciski alarmu i otwierania drzwi"
+                    ],
+                    "features": {
+                        "Bottoniere di cabina": "szerokość: 90mm >= 200 mm | Wysokość  <= 2400mm | Głębokość: 23mm",
+                        "Bottoniere di piano": ""
+                    }
+                },
+                "Laguna": {
+                    "name": "Laguna",
+                    "desc": "",
+                    "shortdesc": "Od zadań specjalnych",
+                    "specs": [
+                        "Kasety sterownicze ze szkła hartowanego o grubości 3 mm",
+                        "Montaż podtynkowy, opcjonalna skrzynka",
+                        "Możliwość personalizacji kolorów i rozmiarów",
+                        "Predyspozycja dla dialera telefonicznego",
+                        "Podświetlana tabliczka ładowności LABEL57",
+                        "Wyświetlacz LCD RAINBOW57 LCD z ikonami ostrzeżeń lub TFT Marlin",
+                        "Przyciski o średnicy 32mm z alfabetem Braille'a"
+                    ],
+                    "features": {
+                        "Bottoniere di cabina": "Szerokość:  90mm >= 200 mm | Wysokość <= 2400mm | Głębokość: 23mm",
+                        "Bottoniere di piano": "Szeroko: 60scmm >= 120 mm | Wysokość <= 290mm | Głębokość: 20 - 23mm"
+                    }
+                },
+                "Rubens": {
+                    "name": "Rubens",
+                    "desc": "",
+                    "shortdesc": "Eleganckie kasety sterownicze",
+                    "specs": [
+                        "Montaż podtynkowy (z tylną skrzynką)",
+                        "Kasety ze stali nierdzewnej AISI304 grubości 2 mm ",
+                        "Możliwość wykonania wymiarów niestandardowych - również szerokości!",
+                        "Predyspozycja dla dialera telefonicznego",
+                        "Podświetlana tabliczka ładowności LABEL57",
+                        "Wyświetlacz LCD RAINBOW57 LCD z ikonami ostrzeżeń lub TFT 7\"",
+                        "Przyciski o średnicy 32mm z alfabetem Braille'a"
+                    ],
+                    "features": {
+                        "Bottoniere di cabina": "Szerokość: 90mm >= 200 mm | Wysokość <= 2400mm | Głębokość: 35mm",
+                        "Bottoniere di piano": "Szerokość: 60mm >= 120 mm | Wysokość <= 290mm | Głębokość: 20 - 23mm"
+                    }
+                },
+                "Ilary": {
+                    "name": "Ilary",
+                    "desc": "",
+                    "shortdesc": "Kasety sterownicze dla pięter",
+                    "specs": [
+                        "Ze stali nierdzewnej AISI304 grubości 0.6 A433mm ",
+                        "Montaż natynkowy",
+                        "Wyświetlacz QP51 LCD z ikonami ostrzeżeń",
+                        "Przyciski o średnicy 32mm z alfabetem Braille'a i podświetlana cyfra"
+                    ]
+                }
+            },
+            "access": {
+                "Aladino": {
+                    "name": "Aladino",
+                    "desc": "",
+                    "shortdesc": "Kontrola dostępu",
+                    "specs": [
+                        "Liczenie jazd dla każdego użytkownika",
+                        "Liczenie jazd dla każdego użytkownika",
+                        "Każdy użytkownik zarejestrowany w systemie może być upoważniony do uzyskania dostępu do niektórych pięter."
+                    ],
+                    "features": {
+                        "Possibilità di funzionamento sia con la serie di schede madri BR sia in qualsiasi altro pannello di controllo": ""
+                    }
+                }
+            },
+            "roma": {
+                "Roma": {
+                    "name": "Roma",
+                    "desc": "",
+                    "shortdesc": "Przycisk"
+                }
+            }
+        }
+    }
+}
